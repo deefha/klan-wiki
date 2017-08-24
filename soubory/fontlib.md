@@ -50,3 +50,9 @@
 
 
 
+![](/assets/00-8x12.gif)
+
+![](/assets/01-32x30.gif)
+
+![](/assets/02-9x12.gif)
+
