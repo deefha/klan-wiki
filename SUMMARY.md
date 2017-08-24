@@ -7,5 +7,7 @@
   * [Interface 3](interfacy/interface-3.md)
   * [Interface 4](interfacy/interface-4.md)
 * [Soubory](soubory.md)
-  * [font.lib](soubory/fontlib.md)
+* [font.lib](soubory/fontlib.md)
+* [data](soubory/data.md)
+  * [24b.bm6](soubory/data/24bbm6.md)
 
