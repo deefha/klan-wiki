@@ -9,7 +9,7 @@
 0           0x0     8        char       "SNOPsoft"
 8           0x8     4        byte       ? vždy "00 1A 00 01"
 12          0xc     2        word       Typ knihovny
-14          0xe     4        dword       Délka souboru
+14          0xe     4        dword      Délka souboru
 18          0x12    2        word       Čas vytvoření souboru (MS DOS date)
                                         Viz http://www.delorie.com/djgpp/doc/rbinter/it/66/16.html
 20          0x14    2        word       Datum vytvoření souboru (MS DOS time)
