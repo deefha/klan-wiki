@@ -1,7 +1,9 @@
 # Interface 1: čísla \#00 - \#10
 
+## Soubory {#soubory}
+
 |  | \#00 | \#01 | \#02 | \#03 | \#04 | \#05 | \#06 | \#07 | \#08 | \#09 | \#10 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [data/24b.bm6](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/data/24b.bm6) |  |  |  |  |  |  |  | X | X | X | X |
 | [data/24blite.bm6](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/data/24blite.bm6) |  |  |  |  |  |  |  | X | X | X | X |
 | [data/8b.bm6](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/data/8b.bm6) |  |  |  | X | X | X | X | X | X | X | X |
