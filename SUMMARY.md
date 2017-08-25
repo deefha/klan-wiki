@@ -11,7 +11,7 @@
     * [24b.bm6](soubory/data/24bbm6.md)
     * [24blite.bm6](soubory/data/24blitebm6.md)
     * [8b.bm6](soubory/data/8bbm6.md)
-    * 8b\_lite.bm6
+    * [8b\_lite.bm6](soubory/data/8blite-bm6.md)
     * 8blite.bm6
     * 95\_0.bm6
     * 95\_1.bm6
