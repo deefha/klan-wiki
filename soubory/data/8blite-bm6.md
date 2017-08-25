@@ -1,4 +1,4 @@
-# 8b\_lite.bm6
+# data/8b\_lite.bm6
 
 
 

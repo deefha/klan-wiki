@@ -1,4 +1,4 @@
-# script.nnl
+# data/script.nnl
 
 
 

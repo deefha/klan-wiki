@@ -23,32 +23,34 @@
     * [void.url](soubory/data/voidurl.md)
     * [w95\_2.bm6](soubory/data/w952-bm6.md)
     * [w95\_2l.bm6](soubory/data/w952l-bm6.md)
-  * a.lib
-  * anim.lib
-  * autorun.inf
-  * cursors.lib
-  * dos4gw.exe
+  * [texty](soubory/texty.md)
+    * [\*.p](soubory/texty/p.md)
+  * [a.lib](soubory/alib.md)
+  * [anim.lib](soubory/animlib.md)
+  * [autorun.inf](soubory/autoruninf.md)
+  * [cursors.lib](soubory/cursorslib.md)
+  * [dos4gw.exe](soubory/dos4gwexe.md)
   * [font.lib](soubory/fontlib.md)
-  * font2.lib
-  * image1.lib
-  * imgs.lib
-  * imgtext.lib
-  * kl95\_24b.bat
-  * kl95\_8.bat
-  * klan.com
-  * klan.exe
-  * klan.ini
-  * klan95.exe
-  * lastmin.doc
-  * mods.lib
-  * readme.txt
-  * script.nnl
-  * scrsvr.lib
-  * setup.exe
-  * setup.res
-  * texts.lib
-  * version
-  * version.txt
-  * void\_scr.z3p
-  * wave.lib
+  * [font2.lib](soubory/font2lib.md)
+  * [image1.lib](soubory/image1lib.md)
+  * [imgs.lib](soubory/imgslib.md)
+  * [imgtext.lib](soubory/imgtextlib.md)
+  * [kl95\_24b.bat](soubory/kl9524b-bat.md)
+  * [kl95\_8.bat](soubory/kl958-bat.md)
+  * [klan.com](soubory/klancom.md)
+  * [klan.exe](soubory/klanexe.md)
+  * [klan.ini](soubory/klanini.md)
+  * [klan95.exe](soubory/klan95exe.md)
+  * [lastmin.doc](soubory/lastmindoc.md)
+  * [mods.lib](soubory/modslib.md)
+  * [readme.txt](soubory/readmetxt.md)
+  * [script.nnl](soubory/scriptnnl.md)
+  * [scrsvr.lib](soubory/scrsvrlib.md)
+  * [setup.exe](soubory/setupexe.md)
+  * [setup.res](soubory/setupres.md)
+  * [texts.lib](soubory/textslib.md)
+  * [version](soubory/version.md)
+  * [version.txt](soubory/versiontxt.md)
+  * [void\_scr.z3p](soubory/voidscr-z3p.md)
+  * [wave.lib](soubory/wavelib.md)
 

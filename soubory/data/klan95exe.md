@@ -1,4 +1,4 @@
-# klan95.exe
+# data/klan95.exe
 
 
 
