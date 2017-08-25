@@ -23,5 +23,13 @@
     * [void.url](soubory/data/voidurl.md)
     * [w95\_2.bm6](soubory/data/w952-bm6.md)
     * [w95\_2l.bm6](soubory/data/w952l-bm6.md)
+  * a.lib
+  * anim.lib
+  * autorun.inf
+  * cursors.lib
+  * dos4gw.exe
   * [font.lib](soubory/fontlib.md)
+  * font2.lib
+  * image1.lib
+  * imgs.lib
 
