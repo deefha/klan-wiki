@@ -1,7 +1,7 @@
 # Summary
 
 * [Úvod](README.md)
-* [Čísla](cisla.md)
+* [Čísla](__cisla.md)
   * [\#00](cisla/00.md)
   * [\#01](cisla/01.md)
   * [\#02](cisla/02.md)
@@ -13,12 +13,12 @@
   * [\#08](cisla/08.md)
   * [\#09](cisla/09.md)
   * [\#10](cisla/10.md)
-* [Interfacy](interfacy.md)
+* [Interfacy](__interfacy.md)
   * [Interface 1](interfacy/interface-1.md)
   * [Interface 2](interfacy/interface-2.md)
   * [Interface 3](interfacy/interface-3.md)
   * [Interface 4](interfacy/interface-4.md)
-* [Soubory](soubory.md)
+* [Soubory](__soubory.md)
   * [data](soubory/__data.md)
     * [24b.bm6](soubory/data/24bbm6.md)
     * [24blite.bm6](soubory/data/24blitebm6.md)
