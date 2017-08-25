@@ -1,4 +1,4 @@
-# Interface 4: čísla \#35 - \#42 {#markdown-header-interface-4-cisla-35-42}
+# Generace 4: KLAN \#35 - \#42 {#markdown-header-interface-4-cisla-35-42}
 
 |  | \#35 | \#36 | \#37 | \#38 | \#39 | \#40 | \#41 | \#42 |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |

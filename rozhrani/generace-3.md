@@ -1,4 +1,4 @@
-# Interface 3: čísla \#28 - \#34 {#markdown-header-interface-3-cisla-28-34}
+# Generace 3: KLAN \#28 - \#34 {#markdown-header-interface-3-cisla-28-34}
 
 |  | \#28 | \#29 | \#30 | \#31 | \#32-33 | \#34 |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
