@@ -32,4 +32,23 @@
   * font2.lib
   * image1.lib
   * imgs.lib
+  * imgtext.lib
+  * kl95\_24b.bat
+  * kl95\_8.bat
+  * klan.com
+  * klan.exe
+  * klan.ini
+  * klan95.exe
+  * lastmin.doc
+  * mods.lib
+  * readme.txt
+  * script.nnl
+  * scrsvr.lib
+  * setup.exe
+  * setup.res
+  * texts.lib
+  * version
+  * version.txt
+  * void\_scr.z3p
+  * wave.lib
 
