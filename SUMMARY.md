@@ -9,6 +9,6 @@
 * [Soubory](soubory.md)
   * [data](soubory/data.md)
     * [24b.bm6](soubory/data/24bbm6.md)
-    * 8b.bm6
+    * [8b.bm6](soubory/data/8bbm6.md)
   * [font.lib](soubory/fontlib.md)
 
