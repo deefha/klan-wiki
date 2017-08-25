@@ -12,16 +12,16 @@
     * [24blite.bm6](soubory/data/24blitebm6.md)
     * [8b.bm6](soubory/data/8bbm6.md)
     * [8b\_lite.bm6](soubory/data/8blite-bm6.md)
-    * 8blite.bm6
-    * 95\_0.bm6
-    * 95\_1.bm6
-    * kl95\_24b.bat
-    * kl95\_8b.bat
-    * klan95.exe
-    * script.nnl
-    * script24.nnl
-    * void.url
-    * w95\_2.bm6
-    * w95\_2l.bm6
+    * [8blite.bm6](soubory/data/8blitebm6.md)
+    * [95\_0.bm6](soubory/data/950-bm6.md)
+    * [95\_1.bm6](soubory/data/951-bm6.md)
+    * [kl95\_24b.bat](soubory/data/kl9524b-bat.md)
+    * [kl95\_8b.bat](soubory/data/kl958b-bat.md)
+    * [klan95.exe](soubory/data/klan95exe.md)
+    * [script.nnl](soubory/data/scriptnnl.md)
+    * [script24.nnl](soubory/data/script24nnl.md)
+    * [void.url](soubory/data/voidurl.md)
+    * [w95\_2.bm6](soubory/data/w952-bm6.md)
+    * [w95\_2l.bm6](soubory/data/w952l-bm6.md)
   * [font.lib](soubory/fontlib.md)
 
