@@ -12,5 +12,16 @@
     * 24blite.bm6
     * [8b.bm6](soubory/data/8bbm6.md)
     * 8b\_lite.bm6
+    * 8blite.bm6
+    * 95\_0.bm6
+    * 95\_1.bm6
+    * kl95\_24b.bat
+    * kl95\_8b.bat
+    * klan95.exe
+    * script.nnl
+    * script24.nnl
+    * void.url
+    * w95\_2.bm6
+    * w95\_2l.bm6
   * [font.lib](soubory/fontlib.md)
 
