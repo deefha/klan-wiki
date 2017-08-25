@@ -37,7 +37,7 @@
     * [w95\_2l.bm6](soubory/data/w952l-bm6.md)
   * [texty](soubory/texty.md)
     * [\*.p](soubory/texty/p.md)
-  * [a.lib](soubory/alib.md)
+  * [a.lib](soubory/a.lib.md)
   * [anim.lib](soubory/animlib.md)
   * [autorun.inf](soubory/autoruninf.md)
   * [cursors.lib](soubory/cursorslib.md)
