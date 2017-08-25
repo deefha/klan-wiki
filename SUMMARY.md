@@ -1,6 +1,7 @@
 # Summary
 
 * [Úvod](README.md)
+* [Čísla](cisla.md)
 * [Interfacy](interfacy.md)
   * [Interface 1](interfacy/interface-1.md)
   * [Interface 2](interfacy/interface-2.md)
