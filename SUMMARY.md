@@ -49,7 +49,7 @@
   * [imgs.lib](soubory/imgs.lib.md)
   * [imgtext.lib](soubory/imgtext.lib.md)
   * [kl95\_24b.bat](soubory/kl95_24b.bat.md)
-  * [kl95\_8.bat](soubory/kl95_8.bat.md)
+  * [kl95\_8b.bat](soubory/kl95_8b.bat.md)
   * [klan.com](soubory/klan.com.md)
   * [klan.exe](soubory/klan.exe.md)
   * [klan.ini](soubory/klan.ini.md)

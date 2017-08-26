@@ -27,28 +27,28 @@
 | [dos4gw.exe](/soubory/dos4gw.exe.md) | X | X | X |  | X | X | X | X | X | X | X |
 | [**font.lib**](/soubory/font.lib.md) | X | X | X | X | X | X | X | X | X | X | X |
 | [**font2.lib**](/soubory/font2.lib.md) |  | X | X | X | X | X | X | X | X | X | X |
-| **help.lib** |  | X | X | X | X | X | X | X | X | X | X |
-| [**image1.lib**](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/image1.lib) |  | X | X | X | X | X | X | X | X | X | X |
-| [**imgs.lib**](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/imgs.lib) | X | X | X | X | X | X | X | X | X | X | X |
-| [**imgtext.lib**](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/imgtext.lib) |  |  |  |  |  |  | X | X | X | X | X |
-| [kl95\_24b.bat](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/kl95_24b.bat) |  |  |  |  |  |  |  |  | X |  |  |
-| [kl95\_8.bat](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/kl95_8.bat) |  |  |  |  |  |  |  |  | X |  |  |
-| [klan.com](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/klan.com) | X | X | X | X | X | X | X | X | X | X | X |
-| [klan.exe](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/klan.exe) | X | X | X | X | X | X | X | X | X | X | X |
-| [klan.ini](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/klan.ini) |  |  |  |  |  |  | X | X | X | X | X |
-| [klan95.exe](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/klan95.exe) |  | X | X | X | X | X | X | X | X | X | X |
-| [lastmin.doc](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/lastmin.doc) | X |  |  |  |  |  |  |  |  |  |  |
-| [**mods.lib**](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/mods.lib) | X | X | X | X | X | X | X | X | X | X | X |
-| [readme.txt](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/readme.txt) |  |  | X | X | X | X | X | X | X | X | X |
-| [script.nnl](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/script.nnl) |  | X | X | X | X | X | X | X | X | X | X |
-| [**scrsvr.lib**](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/scrsvr.lib) |  |  |  |  |  |  | X | X | X | X | X |
-| [setup.exe](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/setup.exe) | X | X | X | X | X | X | X | X | X | X | X |
-| [setup.res](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/setup.res) | X | X | X | X | X | X | X | X | X | X | X |
-| [**texts.lib**](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/texts.lib) |  | X | X | X | X | X | X | X | X | X | X |
-| [version](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/version) |  | X | X | X |  |  |  |  |  |  |  |
-| [version.txt](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/version.txt) |  |  |  |  | X |  |  |  |  |  |  |
-| [**void\_scr.z3p**](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/void_scr.z3p) | X | X | X | X | X | X | X | X | X | X | X |
-| [**wave.lib**](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/wave.lib) | X | X | X | X | X | X | X | X | X | X | X |
+| [**help.lib**](/soubory/help.lib.md) |  | X | X | X | X | X | X | X | X | X | X |
+| [**image1.lib**](/soubory/image1.lib.md) |  | X | X | X | X | X | X | X | X | X | X |
+| [**imgs.lib**](/soubory/imgs.lib.md) | X | X | X | X | X | X | X | X | X | X | X |
+| [**imgtext.lib**](/soubory/imgtext.lib.md) |  |  |  |  |  |  | X | X | X | X | X |
+| [kl95\_24b.bat](/soubory/data/kl95_24b.bat.md) |  |  |  |  |  |  |  |  | X |  |  |
+| [kl95\_8b.bat](/soubory/kl95_8b.bat.md) |  |  |  |  |  |  |  |  | X |  |  |
+| [klan.com](/soubory/klan.com.md) | X | X | X | X | X | X | X | X | X | X | X |
+| [klan.exe](/soubory/klan.exe.md) | X | X | X | X | X | X | X | X | X | X | X |
+| [klan.ini](/soubory/klan.ini.md) |  |  |  |  |  |  | X | X | X | X | X |
+| [klan95.exe](/soubory/data/klan95.exe.md) |  | X | X | X | X | X | X | X | X | X | X |
+| [lastmin.doc](/soubory/lastmin.doc.md) | X |  |  |  |  |  |  |  |  |  |  |
+| [**mods.lib**](/soubory/mods.lib.md) | X | X | X | X | X | X | X | X | X | X | X |
+| [readme.txt](/soubory/readme.txt.md) |  |  | X | X | X | X | X | X | X | X | X |
+| [script.nnl](/soubory/data/script.nnl.md) |  | X | X | X | X | X | X | X | X | X | X |
+| [**scrsvr.lib**](/soubory/scrsvr.lib.md) |  |  |  |  |  |  | X | X | X | X | X |
+| [setup.exe](/soubory/setup.exe.md) | X | X | X | X | X | X | X | X | X | X | X |
+| [setup.res](/soubory/setup.res.md) | X | X | X | X | X | X | X | X | X | X | X |
+| [**texts.lib**](/soubory/texts.lib.md) |  | X | X | X | X | X | X | X | X | X | X |
+| [version](/soubory/version.md) |  | X | X | X |  |  |  |  |  |  |  |
+| [version.txt](/soubory/version.txt.md) |  |  |  |  | X |  |  |  |  |  |  |
+| [**void\_scr.z3p**](/soubory/void_scr.z3p.md) | X | X | X | X | X | X | X | X | X | X | X |
+| [**wave.lib**](/soubory/wave.lib.md) | X | X | X | X | X | X | X | X | X | X | X |
 
 
 
