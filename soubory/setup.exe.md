@@ -1,4 +1,6 @@
 # setup.exe
 
+Mód: binární
+
 
 

@@ -1,4 +1,6 @@
 # imgs.lib
 
+Mód: binární
+
 
 

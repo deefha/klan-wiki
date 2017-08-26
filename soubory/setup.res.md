@@ -1,4 +1,6 @@
 # setup.res
 
+Mód: binární
+
 
 

@@ -1,4 +1,6 @@
 # texts.lib
 
+Mód: binární
+
 
 

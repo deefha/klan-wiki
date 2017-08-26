@@ -1,4 +1,6 @@
 # texty/\*.p
 
+Mód: binární
+
 
 

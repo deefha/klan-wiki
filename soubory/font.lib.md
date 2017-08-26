@@ -1,5 +1,7 @@
 # font.lib
 
+Mód: binární
+
 ```
 @Dec   @Hex    Délka Typ
 
@@ -47,8 +49,6 @@
 
 ?      0x?                    Konec souboru (viz @14)
 ```
-
-
 
 ![](/assets/00-8x12.gif)
 

@@ -1,4 +1,6 @@
 # mods.lib
 
+Mód: binární
+
 
 

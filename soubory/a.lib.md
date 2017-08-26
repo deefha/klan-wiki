@@ -1,4 +1,6 @@
 # a.lib
 
+Mód: binární
+
 
 

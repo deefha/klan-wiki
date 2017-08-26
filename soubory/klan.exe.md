@@ -1,4 +1,6 @@
 # klan.exe
 
+Mód: binární
+
 
 

@@ -1,4 +1,6 @@
 # scrsvr.lib
 
+Mód: binární
+
 
 

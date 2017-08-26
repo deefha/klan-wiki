@@ -1,4 +1,6 @@
 # klan.com
 
+Mód: binární
+
 
 

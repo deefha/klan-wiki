@@ -1,4 +1,6 @@
 # imgtext.lib
 
+Mód: binární
+
 
 

@@ -1,4 +1,6 @@
 # help.lib
 
+Mód: binární
+
 
 

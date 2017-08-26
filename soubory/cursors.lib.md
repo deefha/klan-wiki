@@ -1,4 +1,6 @@
 # cursors.lib
 
+Mód: binární
+
 
 

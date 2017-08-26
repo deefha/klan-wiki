@@ -1,4 +1,6 @@
 # autorun.inf
 
+Mód: textový
+
 
 
