@@ -66,4 +66,5 @@
   * [version.txt](soubory/version.txt.md)
   * [void\_scr.z3p](soubory/void_scr.z3p.md)
   * [wave.lib](soubory/wave.lib.md)
+* [Kódování češtiny](kodovani-cestiny.md)
 
