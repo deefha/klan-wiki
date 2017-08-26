@@ -19,10 +19,10 @@
 | [data/void.url](/soubory/data/void.url.md) |  |  |  | X |  |  |  |  |  |  |  |
 | [data/w95\_2.bm6](/soubory/data/w95_2.bm6.md) |  |  | X |  |  |  |  |  |  |  |  |
 | [data/w95\_2l.bm6](/soubory/data/w95_2l.bm6.md) |  |  | X |  |  |  |  |  |  |  |  |
-| [**texty/\*.p**](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/texty/*.p) | X |  |  |  |  |  |  |  |  |  |  |
-| [**a.lib**](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/a.lib) |  |  |  | X | X | X | X | X | X | X | X |
-| [**anim.lib**](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/anim.lib) | X | X | X | X | X | X | X | X | X | X | X |
-| [autorun.inf](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/autorun.inf) | X | X | X | X | X | X | X | X | X | X | X |
+| [**texty/\*.p**](/soubory/texty/p.md) | X |  |  |  |  |  |  |  |  |  |  |
+| [**a.lib**](/soubory/a.lib.md) |  |  |  | X | X | X | X | X | X | X | X |
+| [**anim.lib**](/soubory/anim.lib.md) | X | X | X | X | X | X | X | X | X | X | X |
+| [autorun.inf](/soubory/autorun.inf.md) | X | X | X | X | X | X | X | X | X | X | X |
 | [**cursors.lib**](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/cursors.lib) | X | X | X | X | X | X | X | X | X | X | X |
 | [dos4gw.exe](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/dos4gw.exe) | X | X | X |  | X | X | X | X | X | X | X |
 | [**font.lib**](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/font.lib) | X | X | X | X | X | X | X | X | X | X | X |
