@@ -4,11 +4,11 @@
 
 |  | [\#00](/vydani/klan-00.md) | [\#01](/vydani/klan-01.md) | [\#02](/vydani/klan-02.md) | [\#03](/vydani/klan-03.md) | [\#04](/vydani/klan-04.md) | [\#05](/vydani/klan-05.md) | [\#06](/vydani/klan-06.md) | [\#07](/vydani/klan-07.md) | [\#08](/vydani/klan-08.md) | [\#09](/vydani/klan-09.md) | [\#10](/vydani/klan-10.md) |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [data/24b.bm6](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/data/24b.bm6) |  |  |  |  |  |  |  | X | X | X | X |
-| [data/24blite.bm6](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/data/24blite.bm6) |  |  |  |  |  |  |  | X | X | X | X |
-| [data/8b.bm6](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/data/8b.bm6) |  |  |  | X | X | X | X | X | X | X | X |
-| [data/8b\_lite.bm6](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/data/8b_lite.bm6) |  |  |  | X |  |  |  |  |  |  |  |
-| [data/8blite.bm6](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/data/8blite.bm6) |  |  |  |  | X | X | X | X | X | X | X |
+| [data/24b.bm6](/soubory/data/24b.bm6.md) |  |  |  |  |  |  |  | X | X | X | X |
+| [data/24blite.bm6](/soubory/data/24blite.bm6.md) |  |  |  |  |  |  |  | X | X | X | X |
+| [data/8b.bm6](/soubory/data/8b.bm6.md) |  |  |  | X | X | X | X | X | X | X | X |
+| [data/8b\_lite.bm6](/soubory/data/8b_lite.bm6.md) |  |  |  | X |  |  |  |  |  |  |  |
+| [data/8blite.bm6](/soubory/data/8blite.bm6.md) |  |  |  |  | X | X | X | X | X | X | X |
 | [data/95\_0.bm6](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/data/95_0.bm6) |  | X |  |  |  |  |  |  |  |  |  |
 | [data/95\_1.bm6](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/data/95_1.bm6) |  | X |  |  |  |  |  |  |  |  |  |
 | [data/kl95\_24b.bat](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/data/kl95_24b.bat) |  |  |  |  |  |  |  | X | X | X | X |
