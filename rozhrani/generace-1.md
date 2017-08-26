@@ -9,16 +9,16 @@
 | [data/8b.bm6](/soubory/data/8b.bm6.md) |  |  |  | X | X | X | X | X | X | X | X |
 | [data/8b\_lite.bm6](/soubory/data/8b_lite.bm6.md) |  |  |  | X |  |  |  |  |  |  |  |
 | [data/8blite.bm6](/soubory/data/8blite.bm6.md) |  |  |  |  | X | X | X | X | X | X | X |
-| [data/95\_0.bm6](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/data/95_0.bm6) |  | X |  |  |  |  |  |  |  |  |  |
-| [data/95\_1.bm6](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/data/95_1.bm6) |  | X |  |  |  |  |  |  |  |  |  |
-| [data/kl95\_24b.bat](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/data/kl95_24b.bat) |  |  |  |  |  |  |  | X | X | X | X |
-| [data/kl95\_8b.bat](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/data/kl95_8b.bat) |  |  |  |  |  |  |  | X | X | X | X |
-| [data/klan95.exe](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/data/klan95.exe) |  |  |  |  |  |  |  | X | X | X | X |
-| [data/script.nnl](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/data/script.nnl) |  |  |  |  |  |  |  | X | X | X | X |
-| [data/script24.nnl](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/data/script24.nnl) |  |  |  |  |  |  |  | X | X | X | X |
+| [data/95\_0.bm6](/soubory/data/95_0.bm6.md) |  | X |  |  |  |  |  |  |  |  |  |
+| [data/95\_1.bm6](/soubory/data/95_1.bm6.md) |  | X |  |  |  |  |  |  |  |  |  |
+| [data/kl95\_24b.bat](/soubory/data/kl95_24b.bat.md) |  |  |  |  |  |  |  | X | X | X | X |
+| [data/kl95\_8b.bat](/soubory/data/kl95_8b.bat.md) |  |  |  |  |  |  |  | X | X | X | X |
+| [data/klan95.exe](/soubory/data/klan95.exe.md) |  |  |  |  |  |  |  | X | X | X | X |
+| [data/script.nnl](/soubory/data/script.nnl.md) |  |  |  |  |  |  |  | X | X | X | X |
+| [data/script24.nnl](/soubory/data/script24.nnl.md) |  |  |  |  |  |  |  | X | X | X | X |
 | [data/void.url](/soubory/data/void.url.md) |  |  |  | X |  |  |  |  |  |  |  |
-| [data/w95\_2.bm6](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/data/w95_2.bm6) |  |  | X |  |  |  |  |  |  |  |  |
-| [data/w95\_2l.bm6](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/data/w95_2l.bm6) |  |  | X |  |  |  |  |  |  |  |  |
+| [data/w95\_2.bm6](/soubory/data/w95_2.bm6.md) |  |  | X |  |  |  |  |  |  |  |  |
+| [data/w95\_2l.bm6](/soubory/data/w95_2l.bm6.md) |  |  | X |  |  |  |  |  |  |  |  |
 | [**texty/\*.p**](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/texty/*.p) | X |  |  |  |  |  |  |  |  |  |  |
 | [**a.lib**](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/a.lib) |  |  |  | X | X | X | X | X | X | X | X |
 | [**anim.lib**](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/anim.lib) | X | X | X | X | X | X | X | X | X | X | X |
