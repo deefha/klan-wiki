@@ -16,7 +16,7 @@
 | [data/klan95.exe](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/data/klan95.exe) |  |  |  |  |  |  |  | X | X | X | X |
 | [data/script.nnl](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/data/script.nnl) |  |  |  |  |  |  |  | X | X | X | X |
 | [data/script24.nnl](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/data/script24.nnl) |  |  |  |  |  |  |  | X | X | X | X |
-| [data/void.url](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/data/void.url) |  |  |  | X |  |  |  |  |  |  |  |
+| [data/void.url](/soubory/data/void.url.md) |  |  |  | X |  |  |  |  |  |  |  |
 | [data/w95\_2.bm6](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/data/w95_2.bm6) |  |  | X |  |  |  |  |  |  |  |  |
 | [data/w95\_2l.bm6](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/data/w95_2l.bm6) |  |  | X |  |  |  |  |  |  |  |  |
 | [**texty/\*.p**](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/texty/*.p) | X |  |  |  |  |  |  |  |  |  |  |
