@@ -44,6 +44,7 @@
   * [dos4gw.exe](soubory/dos4gw.exe.md)
   * [font.lib](soubory/font.lib.md)
   * [font2.lib](soubory/font2.lib.md)
+  * [help.lib](soubory/helplib.md)
   * [image1.lib](soubory/image1.lib.md)
   * [imgs.lib](soubory/imgs.lib.md)
   * [imgtext.lib](soubory/imgtext.lib.md)
@@ -65,5 +66,4 @@
   * [version.txt](soubory/version.txt.md)
   * [void\_scr.z3p](soubory/void_scr.z3p.md)
   * [wave.lib](soubory/wave.lib.md)
-  * [help.lib](soubory/helplib.md)
 
