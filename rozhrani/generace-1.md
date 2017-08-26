@@ -23,11 +23,11 @@
 | [**a.lib**](/soubory/a.lib.md) |  |  |  | X | X | X | X | X | X | X | X |
 | [**anim.lib**](/soubory/anim.lib.md) | X | X | X | X | X | X | X | X | X | X | X |
 | [autorun.inf](/soubory/autorun.inf.md) | X | X | X | X | X | X | X | X | X | X | X |
-| [**cursors.lib**](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/cursors.lib) | X | X | X | X | X | X | X | X | X | X | X |
-| [dos4gw.exe](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/dos4gw.exe) | X | X | X |  | X | X | X | X | X | X | X |
-| [**font.lib**](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/font.lib) | X | X | X | X | X | X | X | X | X | X | X |
-| [**font2.lib**](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/font2.lib) |  | X | X | X | X | X | X | X | X | X | X |
-| [**help.lib**](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/help.lib) |  | X | X | X | X | X | X | X | X | X | X |
+| [**cursors.lib**](/soubory/cursors.lib.md) | X | X | X | X | X | X | X | X | X | X | X |
+| [dos4gw.exe](/soubory/dos4gw.exe.md) | X | X | X |  | X | X | X | X | X | X | X |
+| [**font.lib**](/soubory/font.lib.md) | X | X | X | X | X | X | X | X | X | X | X |
+| [**font2.lib**](/soubory/font2.lib.md) |  | X | X | X | X | X | X | X | X | X | X |
+| **help.lib** |  | X | X | X | X | X | X | X | X | X | X |
 | [**image1.lib**](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/image1.lib) |  | X | X | X | X | X | X | X | X | X | X |
 | [**imgs.lib**](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/imgs.lib) | X | X | X | X | X | X | X | X | X | X | X |
 | [**imgtext.lib**](https://bitbucket.org/deefha/klan/wiki/Interfacy/Soubory/imgtext.lib) |  |  |  |  |  |  | X | X | X | X | X |
