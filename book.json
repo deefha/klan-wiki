@@ -1,5 +1,12 @@
 {
     "plugins": [
-        "collapsible-chapters"
-    ]
+        "collapsible-chapters",
+        "favicon"
+    ],
+    "pluginsConfig": {
+        "favicon": {
+            "shortcut": "assets/favicon.ico",
+            "bookmark": "assets/favicon.ico"
+        }
+    }
 }
