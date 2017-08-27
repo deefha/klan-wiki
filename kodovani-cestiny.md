@@ -12,7 +12,17 @@ Dalším drobným problémem je **několik znaků a symbolů, které v původní
 
 ## Tabulka znaků
 
+Znaky 0-127 odpovídají standardní ASCII tabulce.
 
+| Dec | Hex | Znak | Unicode | UTF-8 | Poznámka |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 0 | 0x00 | NUL | NULL | 0x0000 |  |
+| ... | ... | ... | ... | ... |  |
+| 127 | 0x7f | DEL | DELETE | 0x007f |  |
+| **128** | 0x80 | Č | LATIN CAPITAL LETTER C WITH CARON | 0x010c |  |
+| **129** | 0x81 | ü | LATIN SMALL LETTER U WITH DIAERESIS | 0x00fc |  |
+| **130** | 0x82 | é | LATIN SMALL LETTER E WITH ACUTE | 0x00e9 |  |
+|  |  |  |  |  |  |
 
 ## Odkazy
 
