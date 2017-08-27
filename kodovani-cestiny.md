@@ -1,6 +1,14 @@
 # Kódování češtiny
 
-V textových i binárních souborech KLANu je pro textové řetězce použit **Kód Kamenických** \(Bratři Kameničtí, KEYBCS2, nesprávně CP895\). Tato znaková sada byla pro kódování češtiny a slovenštiny na počítačích s MS-DOS nejrozšířenější v 80.-90. letech 20. století. Časopis KLAN začal vycházet v roce 1996, jedná se tedy o řešení odpovídající době vzniku i dostupným technologiím.
+Původní rozhraní KLANu běží v plně grafickém režimu a pro renderování textů z binárních souborů se zde používá vlastní sada rastrových fontů různých velikostí a barvy. Tento proces je zcela nezávislý na prostředí MS-DOS / OS Windows a čistě teoreticky je tedy vlastně jedno v jakém kódování texty jsou, protože se v samotném KLANu zobrazí vždy správně.
+
+Existuje také několik čistě textových souborů \(např. [readme.txt](/soubory/readme.txt.md)\), které se tak jako tak dají zobrazit pouze samostatně. Právě na nich lze snadno zjistit, že **obsahují celou řadu nečitelných znaků**, u nichž nelze dosáhnout správného zobrazení ani při postupném zkoušení různých středo- a východoevropských znakových sad.
+
+Chceme-li texty z binárních nebo textových souborů "vytáhnout" a dále používat například pro fulltextovou indexaci nebo prostě jen zobrazení mimo KLAN, musíme se kódováním češtiny v textech začít zabývat.
+
+## MS-DOS, Československo a 90. léta
+
+V textových i binárních souborech KLANu je totiž pro textové řetězce použit **Kód Kamenických** \(Bratři Kameničtí, KEYBCS2, nesprávně CP895\). Tato znaková sada byla pro kódování češtiny a slovenštiny na počítačích s MS-DOS nejrozšířenější v 80.-90. letech 20. století. Časopis KLAN začal vycházet v roce 1996, jedná se tedy o řešení odpovídající době vzniku i dostupným technologiím.
 
 S nástupem OS Windows 95 byl ovšem Kód Kamenických postupně vytlačován znakovou sadou Windows-1250, naopak ve světě OS typu UN\*X byla pro češtinu a slovenštinu vždy používána znaková sada ISO 8859-2. Začátek 21. století pak konečně znamenal i začátek nahrazování všech lokálních znakových sad komplexní normou Unicode \(kódování UTF-8/16/32\).
 
