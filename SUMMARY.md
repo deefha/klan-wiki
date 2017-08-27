@@ -1,8 +1,8 @@
 # Summary
 
 * [Úvod](README.md)
-* [Kódování češtiny](kodovani-cestiny.md)
 * [Použitý software](pouzity-software.md)
+* [Kódování češtiny](kodovani-cestiny.md)
 * [Rozhraní](rozhrani.md)
   * [Generace 1](rozhrani/generace-1.md)
   * [Generace 2](rozhrani/generace-2.md)
