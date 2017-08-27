@@ -8,7 +8,9 @@ Chceme-li texty z binárních nebo textových souborů "vytáhnout" a dále pou�
 
 ## MS-DOS, Československo a 90. léta
 
-V textových i binárních souborech KLANu je totiž pro textové řetězce použit **Kód Kamenických** \(Bratři Kameničtí, KEYBCS2, nesprávně CP895\). Tato znaková sada byla pro kódování češtiny a slovenštiny na počítačích s MS-DOS nejrozšířenější v 80.-90. letech 20. století. Časopis KLAN začal vycházet v roce 1996, jedná se tedy o řešení odpovídající době vzniku i dostupným technologiím.
+Když selžou všechny možnosti, je potřeba začít přemýšlet, na co se zapomnělo - lépe řečeno na co se už zapomnělo.
+
+V textových i binárních souborech KLANu je totiž pro textové řetězce použit **Kód Kamenických** \(Bratři Kameničtí, KEYBCS2, nesprávně CP895\). Časopis KLAN začal vycházet v roce 1996 a tato znaková sada byla pro kódování češtiny / slovenštiny na počítačích s MS-DOS nejrozšířenější právě v 80.-90. letech 20. století, jde tedy o řešení naprosto odpovídající době vzniku i dostupným technologiím.
 
 S nástupem OS Windows 95 byl ovšem Kód Kamenických postupně vytlačován znakovou sadou Windows-1250, naopak ve světě OS typu UN\*X byla pro češtinu a slovenštinu vždy používána znaková sada ISO 8859-2. Začátek 21. století pak konečně znamenal i začátek nahrazování všech lokálních znakových sad komplexní normou Unicode \(kódování UTF-8/16/32\).
 
