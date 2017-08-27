@@ -10,15 +10,24 @@ Pro převod souborů v textovém módu lze s úspěchem použít utilitu `cstocs
 
 Dalším drobným problémem je **několik znaků a symbolů, které v původním Kódu Kamenických nejsou**, ale KLAN je ve svém rozhraní přesto zobrazuje. Běží totiž v plně grafickém režimu a pro renderování textů používá vlastní sadu rastrových fontů, které jsou zcela nezávislé na prostředí MS-DOS / OS Windows. Díky tomu lze na libovolné pozici znakové sady zobrazit jakýkoliv jiný znak nebo symbol, čehož KLAN využívá zejména v poslední čtvrtině znakové tabulky. Tyto výjimky je opět nutné podchytit ad hoc.
 
-## Tabulka znaků
+## Tabulka tisknutelných znaků
 
 Znaky 0-127 odpovídají standardní ASCII tabulce.
 
 | Dec | Hex | Znak | Unicode | UTF-8 | Poznámka |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 0 | 0x00 | NUL | NULL | 0x0000 |  |
-| ... | ... | ... | ... | ... |  |
-| 127 | 0x7f | DEL | DELETE | 0x007f |  |
+| **32** | 0x20 | SP | SPACE | 0x0020 |  |
+| **33** | 0x21 | ! | EXCLAMATION MARK | 0x0021 |  |
+| **34** | 0x22 | " | QUOTATION MARK | 0x0022 |  |
+| **35** | 0x23 | \# | NUMBER SIGN | 0x0023 |  |
+| **36** | 0x24 | $ | DOLLAR SIGN | 0x0024 |  |
+| **37** | 0x25 | % | PERCENT SIGN | 0x0025 |  |
+| **38** | 0x26 | & | AMPERSAND | 0x0026 |  |
+| **39** | 0x27 | ' | APOSTROPHE | 0x0027 |  |
+| **40** | 0x28 | \( | LEFT PARENTHESIS | 0x0028 |  |
+| **41** | 0x29 | \) | RIGHT PARENTHESIS | 0x0029 |  |
+| **42** | 0x2a | \* | ASTERISK | 0x002a |  |
+|  |  |  |  |  |  |
 | **128** | 0x80 | Č | LATIN CAPITAL LETTER C WITH CARON | 0x010c |  |
 | **129** | 0x81 | ü | LATIN SMALL LETTER U WITH DIAERESIS | 0x00fc |  |
 | **130** | 0x82 | é | LATIN SMALL LETTER E WITH ACUTE | 0x00e9 |  |
