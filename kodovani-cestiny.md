@@ -12,7 +12,7 @@ Dalším drobným problémem je **několik znaků a symbolů, které v původní
 
 ## Tabulka tisknutelných znaků
 
-Znaky 0-127 odpovídají standardní ASCII tabulce.
+Znaky 0-127 odpovídají standardní ASCII tabulce. Znaky 0-31 a 127 nejsou tisknutelné, žádný font je neobsahuje.
 
 | Dec | Hex | Znak | Unicode | UTF-8 | Poznámka |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -31,8 +31,12 @@ Znaky 0-127 odpovídají standardní ASCII tabulce.
 | **44** | 0x2c | , | COMMA | 0x002c | Některé fonty tento znak nemají |
 | **45** | 0x2d | - | HYPHEN-MINUS | 0x002d | Některé fonty tento znak nemají |
 | **46** | 0x2e | . | FULL STOP | 0x002e | Některé fonty tento znak nemají |
-| **47** | 0x2f | / | SOLIDUS | 0x002f | Některé fonty zde mají znak \ \(92\) |
-| **128** | 0x80 | Č | LATIN CAPITAL LETTER C WITH CARON | 0x010c |  |
+| **47** | 0x2f | / | SOLIDUS | 0x002f | Některé fonty zde mají znak  \(92\) |
+|  |  |  |  |  |  |
+
+| Dec | Hex | Znak | Unicode | UTF-8 | Poznámka |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **128** | 0x8 | Č | LATIN CAPITAL LETTER C WITH CARON | 0x010c |  |
 | **129** | 0x81 | ü | LATIN SMALL LETTER U WITH DIAERESIS | 0x00fc |  |
 | **130** | 0x82 | é | LATIN SMALL LETTER E WITH ACUTE | 0x00e9 |  |
 |  |  |  |  |  |  |
