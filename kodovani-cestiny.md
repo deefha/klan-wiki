@@ -16,18 +16,22 @@ Znaky 0-127 odpovídají standardní ASCII tabulce.
 
 | Dec | Hex | Znak | Unicode | UTF-8 | Poznámka |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **32** | 0x20 | SP | SPACE | 0x0020 |  |
-| **33** | 0x21 | ! | EXCLAMATION MARK | 0x0021 |  |
-| **34** | 0x22 | " | QUOTATION MARK | 0x0022 |  |
-| **35** | 0x23 | \# | NUMBER SIGN | 0x0023 |  |
-| **36** | 0x24 | $ | DOLLAR SIGN | 0x0024 |  |
-| **37** | 0x25 | % | PERCENT SIGN | 0x0025 |  |
-| **38** | 0x26 | & | AMPERSAND | 0x0026 |  |
-| **39** | 0x27 | ' | APOSTROPHE | 0x0027 |  |
-| **40** | 0x28 | \( | LEFT PARENTHESIS | 0x0028 |  |
-| **41** | 0x29 | \) | RIGHT PARENTHESIS | 0x0029 |  |
-| **42** | 0x2a | \* | ASTERISK | 0x002a |  |
-|  |  |  |  |  |  |
+| **32** | 0x20 | _mezera_ | SPACE | 0x0020 |  |
+| **33** | 0x21 | ! | EXCLAMATION MARK | 0x0021 | Některé fonty tento znak nemají |
+| **34** | 0x22 | " | QUOTATION MARK | 0x0022 | Některé fonty tento znak nemají |
+| **35** | 0x23 | \# | NUMBER SIGN | 0x0023 | Některé fonty tento znak nemají |
+| **36** | 0x24 | $ | DOLLAR SIGN | 0x0024 | Některé fonty tento znak nemají |
+| **37** | 0x25 | % | PERCENT SIGN | 0x0025 | Některé fonty tento znak nemají |
+| **38** | 0x26 | & | AMPERSAND | 0x0026 | Některé fonty tento znak nemají |
+| **39** | 0x27 | ' | APOSTROPHE | 0x0027 | Některé fonty tento znak nemají |
+| **40** | 0x28 | \( | LEFT PARENTHESIS | 0x0028 | Některé fonty tento znak nemají |
+| **41** | 0x29 | \) | RIGHT PARENTHESIS | 0x0029 | Některé fonty tento znak nemají |
+| **42** | 0x2a | \* | ASTERISK | 0x002a | Některé fonty tento znak nemají |
+| **43** | 0x2b | + | PLUS SIGN | 0x002b | Některé fonty tento znak nemají |
+| **44** | 0x2c | , | COMMA | 0x002c | Některé fonty tento znak nemají |
+| **45** | 0x2d | - | HYPHEN-MINUS | 0x002d | Některé fonty tento znak nemají |
+| **46** | 0x2e | . | FULL STOP | 0x002e | Některé fonty tento znak nemají |
+| **47** | 0x2f | / | SOLIDUS | 0x002f | Některé fonty zde mají znak \ \(92\) |
 | **128** | 0x80 | Č | LATIN CAPITAL LETTER C WITH CARON | 0x010c |  |
 | **129** | 0x81 | ü | LATIN SMALL LETTER U WITH DIAERESIS | 0x00fc |  |
 | **130** | 0x82 | é | LATIN SMALL LETTER E WITH ACUTE | 0x00e9 |  |
