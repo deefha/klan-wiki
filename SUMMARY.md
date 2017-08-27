@@ -2,6 +2,7 @@
 
 * [Úvod](README.md)
 * [Kódování češtiny](kodovani-cestiny.md)
+* [Použitý software](pouzity-software.md)
 * [Vydání](vydani.md)
   * [KLAN \#00](vydani/klan-00.md)
   * [KLAN \#01](vydani/klan-01.md)
