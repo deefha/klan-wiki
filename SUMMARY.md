@@ -73,9 +73,10 @@
   * [Fonty](knihovny/fonty.md)
   * [Hudba](knihovny/hudba.md)
   * [Kurzory](knihovny/kurzory.md)
+  * [Nápověda](knihovny/napoveda.md)
   * [Obrázky](knihovny/obrazky.md)
   * [Spořič](knihovny/sporic.md)
   * [Texty](knihovny/texty.md)
   * [Video](knihovny/video.md)
-  * [Zvuky](knihovny/zvuky.md)
+  * Nápověda
 
