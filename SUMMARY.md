@@ -69,4 +69,13 @@
   * [void\_scr.z3p](soubory/void_scr.z3p.md)
   * [wave.lib](soubory/wave.lib.md)
 * [Knihovny](knihovny.md)
+  * [arKLANoid](knihovny/arklanoid.md)
+  * [Fonty](knihovny/fonty.md)
+  * [Hudba](knihovny/hudba.md)
+  * [Kurzory](knihovny/kurzory.md)
+  * [Obrázky](knihovny/obrazky.md)
+  * [Spořič](knihovny/sporic.md)
+  * [Texty](knihovny/texty.md)
+  * [Video](knihovny/video.md)
+  * [Zvuky](knihovny/zvuky.md)
 
