@@ -75,8 +75,8 @@
   * [Kurzory](knihovny/kurzory.md)
   * [Nápověda](knihovny/napoveda.md)
   * [Obrázky](knihovny/obrazky.md)
+  * [Popisky](knihovny/popisky.md)
   * [Spořič](knihovny/sporic.md)
   * [Texty](knihovny/texty.md)
-  * [Video](knihovny/video.md)
-  * Nápověda
+  * [Popisky](knihovny/popisky.md)
 
