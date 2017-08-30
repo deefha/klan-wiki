@@ -12,6 +12,7 @@
 | **0x000a** | [Nápověda](/knihovny/napoveda.md) |  |
 | **0x001e** | [Popisky](/knihovny/popisky.md), [Spořič](/knihovny/sporic.md) |  |
 | **0x001f** | [Index](/knihovny/index.md) |  |
+|  | [arKLANoid](/knihovny/arklanoid.md) | Technicky nejde o knihovnu |
 
 
 
