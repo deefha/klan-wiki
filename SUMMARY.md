@@ -78,5 +78,4 @@
   * [Popisky](knihovny/popisky.md)
   * [Spořič](knihovny/sporic.md)
   * [Texty](knihovny/texty.md)
-  * [Popisky](knihovny/popisky.md)
 
