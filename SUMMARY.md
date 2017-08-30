@@ -3,6 +3,7 @@
 * [Úvod](README.md)
 * [Použitý software](pouzity-software.md)
 * [Kódování češtiny](kodovani-cestiny.md)
+* [arKLANoid](knihovny/arklanoid.md)
 * [Rozhraní](rozhrani.md)
   * [Generace 1](rozhrani/generace-1.md)
   * [Generace 2](rozhrani/generace-2.md)
@@ -69,7 +70,6 @@
   * [void\_scr.z3p](soubory/void_scr.z3p.md)
   * [wave.lib](soubory/wave.lib.md)
 * [Knihovny](knihovny.md)
-  * [arKLANoid](knihovny/arklanoid.md)
   * [Fonty](knihovny/fonty.md)
   * [Hudba](knihovny/hudba.md)
   * [Index](knihovny/index.md)
@@ -81,3 +81,4 @@
   * [Texty](knihovny/texty.md)
   * [Videa](knihovny/videa.md)
   * [Zvuky](knihovny/zvuky.md)
+
