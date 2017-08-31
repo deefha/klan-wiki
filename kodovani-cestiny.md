@@ -26,7 +26,9 @@ Tyto výjimky je opět nutné podchytit ad hoc, níže v tabulkách znaků jsou 
 
 ## Tabulka tisknutelných znaků
 
-Znaky 0-127 odpovídají standardní ASCII tabulce. Znaky 0-31 a znak 127 nejsou tisknutelné, žádný font je neobsahuje.
+### Znaky 0-127
+
+Znaky 0-127 odpovídají standardní ASCII tabulce. Znaky 0-31 a znak 127 nejsou tisknutelné, žádný font je tedy neobsahuje.
 
 | Dec | Hex | Znak | Unicode | UTF-8 | Poznámka |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -45,7 +47,7 @@ Znaky 0-127 odpovídají standardní ASCII tabulce. Znaky 0-31 a znak 127 nejsou
 | **44** | 0x2c | , | COMMA | U+002c | Některé fonty tento znak nemají |
 | **45** | 0x2d | - | HYPHEN-MINUS | U+002d | Některé fonty tento znak nemají |
 | **46** | 0x2e | . | FULL STOP | U+002e | Některé fonty tento znak nemají |
-| **47** | 0x2f | / | SOLIDUS | U+002f | Některé fonty zde mají znak  \(92\) |
+| **47** | 0x2f | / | SOLIDUS | U+002f | Některé fonty zde mají znak "\" \(92\) |
 | **48** | 0x30 | 0 | DIGIT ZERO | U+0030 |  |
 | **49** | 0x31 | 1 | DIGIT ONE | U+0031 |  |
 | **50** | 0x32 | 2 | DIGIT TWO | U+0032 |  |
@@ -89,50 +91,104 @@ Znaky 0-127 odpovídají standardní ASCII tabulce. Znaky 0-31 a znak 127 nejsou
 | **88** | 0x58 | X | LATIN CAPITAL LETTER X | U+0058 |  |
 | **89** | 0x59 | Y | LATIN CAPITAL LETTER Y | U+0059 |  |
 | **90** | 0x5a | Z | LATIN CAPITAL LETTER Z | U+005a |  |
-| **91** | 0x5b | \[ |  | U+005b |  |
-| **92** | 0x5c | \ |  | U+005c |  |
-| **93** | 0x5d | \] |  | U+005d |  |
-| **94** | 0x5e | ^ |  | U+005e |  |
-| **95** | 0x5f | \_ |  | U+005f |  |
-| **96** | 0x60 | \` |  | U+0060 |  |
-| **97** | 0x61 | a |  | U+0061 |  |
-| **98** | 0x62 | b |  | U+0062 |  |
-| **99** | 0x63 | c |  | U+0063 |  |
-| **100** | 0x64 | d |  | U+0064 |  |
-| **101** | 0x65 | e |  | U+0065 |  |
-| **102** | 0x66 | f |  | U+0066 |  |
-| **103** | 0x67 | g |  | U+0067 |  |
-| **104** | 0x68 | h |  | U+0068 |  |
-| **105** | 0x69 | i |  | U+0069 |  |
-| **106** | 0x6a | j |  | U+006a |  |
-| **107** | 0x6b | k |  | U+006b |  |
-| **108** | 0x6c | l |  | U+006c |  |
-| **109** | 0x6d | m |  | U+006d |  |
-| **110** | 0x6e | n |  | U+006e |  |
-| **111** | 0x6f | o |  | U+006f |  |
-| **112** | 0x70 | p |  | U+0070 |  |
-| **113** | 0x71 | q |  | U+0071 |  |
-| **114** | 0x72 | r |  | U+0072 |  |
-| **115** | 0x73 | s |  | U+0073 |  |
-| **116** | 0x74 | t |  | U+0074 |  |
-| **117** | 0x75 | u |  | U+0075 |  |
-| **118** | 0x76 | v |  | U+0076 |  |
-| **119** | 0x77 | w |  | U+0077 |  |
-| **120** | 0x78 | x |  | U+0078 |  |
-| **121** | 0x79 | y |  | U+0079 |  |
-| **122** | 0x7a | z |  | U+007a |  |
-| **123** | 0x7b | { |  | U+007b |  |
-| **124** | 0x7c | \| |  | U+007c |  |
-| **125** | 0x7d | } |  | U+007d |  |
-| **126** | 0x7e | ~ |  | U+007e |  |
+| **91** | 0x5b | \[ | LEFT SQUARE BRACKET | U+005b |  |
+| **92** | 0x5c | \ | REVERSE SOLIDUS | U+005c |  |
+| **93** | 0x5d | \] | RIGHT SQUARE BRACKET | U+005d |  |
+| **94** | 0x5e | ^ | CIRCUMFLEX ACCENT | U+005e |  |
+| **95** | 0x5f | \_ | LOW LINE | U+005f |  |
+| **96** | 0x60 | \` | GRAVE ACCENT | U+0060 |  |
+| **97** | 0x61 | a | LATIN SMALL LETTER A | U+0061 |  |
+| **98** | 0x62 | b | LATIN SMALL LETTER B | U+0062 |  |
+| **99** | 0x63 | c | LATIN SMALL LETTER C | U+0063 |  |
+| **100** | 0x64 | d | LATIN SMALL LETTER D | U+0064 |  |
+| **101** | 0x65 | e | LATIN SMALL LETTER E | U+0065 |  |
+| **102** | 0x66 | f | LATIN SMALL LETTER F | U+0066 |  |
+| **103** | 0x67 | g | LATIN SMALL LETTER G | U+0067 |  |
+| **104** | 0x68 | h | LATIN SMALL LETTER H | U+0068 |  |
+| **105** | 0x69 | i | LATIN SMALL LETTER I | U+0069 |  |
+| **106** | 0x6a | j | LATIN SMALL LETTER J | U+006a |  |
+| **107** | 0x6b | k | LATIN SMALL LETTER K | U+006b |  |
+| **108** | 0x6c | l | LATIN SMALL LETTER L | U+006c |  |
+| **109** | 0x6d | m | LATIN SMALL LETTER M | U+006d |  |
+| **110** | 0x6e | n | LATIN SMALL LETTER N | U+006e |  |
+| **111** | 0x6f | o | LATIN SMALL LETTER O | U+006f |  |
+| **112** | 0x70 | p | LATIN SMALL LETTER P | U+0070 |  |
+| **113** | 0x71 | q | LATIN SMALL LETTER Q | U+0071 |  |
+| **114** | 0x72 | r | LATIN SMALL LETTER R | U+0072 |  |
+| **115** | 0x73 | s | LATIN SMALL LETTER S | U+0073 |  |
+| **116** | 0x74 | t | LATIN SMALL LETTER T | U+0074 |  |
+| **117** | 0x75 | u | LATIN SMALL LETTER U | U+0075 |  |
+| **118** | 0x76 | v | LATIN SMALL LETTER V | U+0076 |  |
+| **119** | 0x77 | w | LATIN SMALL LETTER W | U+0077 |  |
+| **120** | 0x78 | x | LATIN SMALL LETTER X | U+0078 |  |
+| **121** | 0x79 | y | LATIN SMALL LETTER Y | U+0079 |  |
+| **122** | 0x7a | z | LATIN SMALL LETTER Z | U+007a |  |
+| **123** | 0x7b | { | LEFT CURLY BRACKET | U+007b |  |
+| **124** | 0x7c | \| | VERTICAL LINE | U+007c |  |
+| **125** | 0x7d | } | RIGHT CURLY BRACKET | U+007d |  |
+| **126** | 0x7e | ~ | TILDE | U+007e |  |
 
-Znaky 128-??? bla bla bla...
+### Znaky 128-175
+
+Znaky 128-175 odpovídají tabulce Kódu Kamenických.
 
 | Dec | Hex | Znak | Unicode | UTF-8 | Poznámka |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **128** | 0x80 | Č | LATIN CAPITAL LETTER C WITH CARON | U+010c |  |
-| **129** | 0x81 | ü | LATIN SMALL LETTER U WITH DIAERESIS | U+00fc |  |
+| **129** | 0x81 | ü | LATIN SMALL LETTER U WITH DIAERESIS | U+00fc | Některé fonty tento znak nemají |
 | **130** | 0x82 | é | LATIN SMALL LETTER E WITH ACUTE | U+00e9 |  |
+| **131** | 0x83 | ď | LATIN SMALL LETTER D WITH CARON | U+010f |  |
+| **132** | 0x84 |  |  |  |  |
+| **133** | 0x85 |  |  |  |  |
+| **134** | 0x86 |  |  |  |  |
+| **135** | 0x87 |  |  |  |  |
+| **136** | 0x88 |  |  |  |  |
+| **137** | 0x89 |  |  |  |  |
+| **138** | 0x8a |  |  |  |  |
+| **139** | 0x8b |  |  |  |  |
+| **140** | 0x8c |  |  |  |  |
+| **141** | 0x8d |  |  |  |  |
+| **142** | 0x8e |  |  |  |  |
+| **143** | 0x8f |  |  |  |  |
+| **144** | 0x90 |  |  |  |  |
+| **145** | 0x91 |  |  |  |  |
+| **146** | 0x92 |  |  |  |  |
+| **147** | 0x93 |  |  |  |  |
+| **148** | 0x94 |  |  |  |  |
+| **149** | 0x95 |  |  |  |  |
+| **150** | 0x96 |  |  |  |  |
+| **151** | 0x97 |  |  |  |  |
+| **152** | 0x98 |  |  |  |  |
+| **153** | 0x99 |  |  |  |  |
+| **154** | 0x9a |  |  |  |  |
+| **155** | 0x9b |  |  |  |  |
+| **156** | 0x9c |  |  |  |  |
+| **157** | 0x9d |  |  |  |  |
+| **158** | 0x9e |  |  |  |  |
+| **159** | 0x9f |  |  |  |  |
+| **160** | 0xa0 |  |  |  |  |
+| **161** | 0xa1 |  |  |  |  |
+| **162** | 0xa2 |  |  |  |  |
+| **163** | 0xa3 |  |  |  |  |
+| **164** | 0xa4 |  |  |  |  |
+| **165** | 0xa5 |  |  |  |  |
+| **166** | 0xa6 |  |  |  |  |
+| **167** | 0xa7 |  |  |  |  |
+| **168** | 0xa8 |  |  |  |  |
+| **169** | 0xa9 |  |  |  |  |
+| **170** | 0xaa |  |  |  |  |
+| **171** | 0xab |  |  |  |  |
+| **172** | 0xac |  |  |  |  |
+| **173** | 0xad |  |  |  |  |
+| **174** | 0xae |  |  |  |  |
+| **175** | 0xaf |  |  |  |  |
+
+### Znaky 176-255
+
+Znaky 176-255 většina fontů neobsahuje. Pokud ano, tak znaky neodpovídají tabulce Kódu Kamenických.
+
+| Dec | Hex | Znak | Unicode | UTF-8 | Poznámka |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 |  |  |  |  |  |  |
 
 ## Odkazy
