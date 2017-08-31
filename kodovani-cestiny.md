@@ -28,7 +28,7 @@ Tyto výjimky je opět nutné podchytit ad hoc, níže v tabulkách znaků jsou 
 
 ### Znaky 0-127
 
-Znaky 0-127 odpovídají standardní ASCII tabulce. Znaky 0-31 a znak 127 nejsou tisknutelné, žádný font je tedy neobsahuje.
+Znaky 0-127 odpovídají standardní ASCII tabulce, ale ne každý font obsahuje všechny znaky. Znaky 0-31 a znak 127 nejsou tisknutelné, neobsahuje je tedy žádný font.
 
 | Dec | Hex | Znak | Unicode | UTF-8 | Poznámka |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -130,7 +130,7 @@ Znaky 0-127 odpovídají standardní ASCII tabulce. Znaky 0-31 a znak 127 nejsou
 
 ### Znaky 128-175
 
-Znaky 128-175 odpovídají tabulce Kódu Kamenických.
+Znaky 128-175 odpovídají tabulce Kódu Kamenických, ale ne každý font obsahuje všechny znaky.
 
 | Dec | Hex | Znak | Unicode | UTF-8 | Poznámka |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -185,11 +185,11 @@ Znaky 128-175 odpovídají tabulce Kódu Kamenických.
 
 ### Znaky 176-255
 
-Znaky 176-255 většina fontů neobsahuje. Pokud ano, tak znaky neodpovídají tabulce Kódu Kamenických.
+Znaky 176-255 buďto nejsou vůbec použity, nebo neodpovídají tabulce Kódu Kamenických. Ne každý font obsahuje všechny znaky.
 
 | Dec | Hex | Znak | Unicode | UTF-8 | Poznámka |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-|  |  |  |  |  |  |
+| **203** | 0xcb |  |  |  |  |
 
 ## Odkazy
 
