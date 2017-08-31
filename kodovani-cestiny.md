@@ -126,6 +126,8 @@ Znaky 0-127 odpovídají standardní ASCII tabulce. Znaky 0-31 a znak 127 nejsou
 | **125** | 0x7d | } |  |  |  |
 | **126** | 0x7e | ~ |  |  |  |
 
+Znaky 128-??? bla bla bla...
+
 | Dec | Hex | Znak | Unicode | UTF-8 | Poznámka |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **128** | 0x80 | Č | LATIN CAPITAL LETTER C WITH CARON | 0x010c |  |
