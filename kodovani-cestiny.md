@@ -45,7 +45,7 @@ Znaky 0-127 odpovídají standardní ASCII tabulce. Znaky 0-31 a znak 127 nejsou
 | **44** | 0x2c | , | COMMA | 0x002c | Některé fonty tento znak nemají |
 | **45** | 0x2d | - | HYPHEN-MINUS | 0x002d | Některé fonty tento znak nemají |
 | **46** | 0x2e | . | FULL STOP | 0x002e | Některé fonty tento znak nemají |
-| **47** | 0x2f | / | SOLIDUS | 0x002f | Některé fonty zde mají znak  \(92\) |
+| **47** | 0x2f | / | SOLIDUS | 0x002f | Některé fonty zde mají znak \ \(92\) |
 | **48** | 0x30 | 0 |  |  |  |
 | **49** | 0x31 | 1 |  |  |  |
 | **50** | 0x32 | 2 |  |  |  |
