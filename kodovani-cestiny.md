@@ -30,109 +30,109 @@ Znaky 0-127 odpovídají standardní ASCII tabulce. Znaky 0-31 a znak 127 nejsou
 
 | Dec | Hex | Znak | Unicode | UTF-8 | Poznámka |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **32** | 0x20 | _mezera_ | SPACE | 0x0020 |  |
-| **33** | 0x21 | ! | EXCLAMATION MARK | 0x0021 | Některé fonty tento znak nemají |
-| **34** | 0x22 | " | QUOTATION MARK | 0x0022 | Některé fonty tento znak nemají |
-| **35** | 0x23 | \# | NUMBER SIGN | 0x0023 | Některé fonty tento znak nemají |
-| **36** | 0x24 | $ | DOLLAR SIGN | 0x0024 | Některé fonty tento znak nemají |
-| **37** | 0x25 | % | PERCENT SIGN | 0x0025 | Některé fonty tento znak nemají |
-| **38** | 0x26 | & | AMPERSAND | 0x0026 | Některé fonty tento znak nemají |
-| **39** | 0x27 | ' | APOSTROPHE | 0x0027 | Některé fonty tento znak nemají |
-| **40** | 0x28 | \( | LEFT PARENTHESIS | 0x0028 | Některé fonty tento znak nemají |
-| **41** | 0x29 | \) | RIGHT PARENTHESIS | 0x0029 | Některé fonty tento znak nemají |
-| **42** | 0x2a | \* | ASTERISK | 0x002a | Některé fonty tento znak nemají |
-| **43** | 0x2b | + | PLUS SIGN | 0x002b | Některé fonty tento znak nemají |
-| **44** | 0x2c | , | COMMA | 0x002c | Některé fonty tento znak nemají |
-| **45** | 0x2d | - | HYPHEN-MINUS | 0x002d | Některé fonty tento znak nemají |
-| **46** | 0x2e | . | FULL STOP | 0x002e | Některé fonty tento znak nemají |
-| **47** | 0x2f | / | SOLIDUS | 0x002f | Některé fonty zde mají znak  \(92\) |
-| **48** | 0x30 | 0 | DIGIT ZERO | 0x0030 |  |
-| **49** | 0x31 | 1 |  | 0x0031 |  |
-| **50** | 0x32 | 2 |  | 0x0032 |  |
-| **51** | 0x33 | 3 |  | 0x0033 |  |
-| **52** | 0x34 | 4 |  | 0x0034 |  |
-| **53** | 0x35 | 5 |  | 0x0035 |  |
-| **54** | 0x36 | 6 |  | 0x0036 |  |
-| **55** | 0x37 | 7 |  | 0x0037 |  |
-| **56** | 0x38 | 8 |  | 0x0038 |  |
-| **57** | 0x39 | 9 |  | 0x0039 |  |
-| **58** | 0x3a | : |  | 0x003a |  |
-| **59** | 0x3b | ; |  | 0x003b |  |
-| **60** | 0x3c | &lt; |  | 0x003c |  |
-| **61** | 0x3d | = |  | 0x003d |  |
-| **62** | 0x3e | &gt; |  | 0x003e |  |
-| **63** | 0x3f | ? |  | 0x003f |  |
-| **64** | 0x40 | @ |  | 0x0040 |  |
-| **65** | 0x41 | A |  | 0x0041 |  |
-| **66** | 0x42 | B |  | 0x0042 |  |
-| **67** | 0x43 | C |  | 0x0043 |  |
-| **68** | 0x44 | D |  | 0x0044 |  |
-| **69** | 0x45 | E |  | 0x0045 |  |
-| **70** | 0x46 | F |  | 0x0046 |  |
-| **71** | 0x47 | G |  | 0x0047 |  |
-| **72** | 0x48 | H |  | 0x0048 |  |
-| **73** | 0x49 | I |  | 0x0049 |  |
-| **74** | 0x4a | J |  | 0x004a |  |
-| **75** | 0x4b | K |  | 0x004b |  |
-| **76** | 0x4c | L |  | 0x004c |  |
-| **77** | 0x4d | M |  | 0x004d |  |
-| **78** | 0x4e | N |  | 0x004e |  |
-| **79** | 0x4f | O |  | 0x004f |  |
-| **80** | 0x50 | P |  | 0x0050 |  |
-| **81** | 0x51 | Q |  | 0x0051 |  |
-| **82** | 0x52 | R |  | 0x0052 |  |
-| **83** | 0x53 | S |  | 0x0053 |  |
-| **84** | 0x54 | T |  | 0x0054 |  |
-| **85** | 0x55 | U |  | 0x0055 |  |
-| **86** | 0x56 | V |  | 0x0056 |  |
-| **87** | 0x57 | W |  | 0x0057 |  |
-| **88** | 0x58 | X |  | 0x0058 |  |
-| **89** | 0x59 | Y |  | 0x0059 |  |
-| **90** | 0x5a | Z |  | 0x005a |  |
-| **91** | 0x5b | \[ |  | 0x005b |  |
-| **92** | 0x5c | \ |  | 0x005c |  |
-| **93** | 0x5d | \] |  | 0x005d |  |
-| **94** | 0x5e | ^ |  | 0x005e |  |
-| **95** | 0x5f | \_ |  | 0x005f |  |
-| **96** | 0x60 | \` |  | 0x0060 |  |
-| **97** | 0x61 | a |  | 0x0061 |  |
-| **98** | 0x62 | b |  | 0x0062 |  |
-| **99** | 0x63 | c |  | 0x0063 |  |
-| **100** | 0x64 | d |  | 0x0064 |  |
-| **101** | 0x65 | e |  | 0x0065 |  |
-| **102** | 0x66 | f |  | 0x0066 |  |
-| **103** | 0x67 | g |  | 0x0067 |  |
-| **104** | 0x68 | h |  | 0x0068 |  |
-| **105** | 0x69 | i |  | 0x0069 |  |
-| **106** | 0x6a | j |  | 0x006a |  |
-| **107** | 0x6b | k |  | 0x006b |  |
-| **108** | 0x6c | l |  | 0x006c |  |
-| **109** | 0x6d | m |  | 0x006d |  |
-| **110** | 0x6e | n |  | 0x006e |  |
-| **111** | 0x6f | o |  | 0x006f |  |
-| **112** | 0x70 | p |  | 0x0070 |  |
-| **113** | 0x71 | q |  | 0x0071 |  |
-| **114** | 0x72 | r |  | 0x0072 |  |
-| **115** | 0x73 | s |  | 0x0073 |  |
-| **116** | 0x74 | t |  | 0x0074 |  |
-| **117** | 0x75 | u |  | 0x0075 |  |
-| **118** | 0x76 | v |  | 0x0076 |  |
-| **119** | 0x77 | w |  | 0x0077 |  |
-| **120** | 0x78 | x |  | 0x0078 |  |
-| **121** | 0x79 | y |  | 0x0079 |  |
-| **122** | 0x7a | z |  | 0x007a |  |
-| **123** | 0x7b | { |  | 0x007b |  |
-| **124** | 0x7c | \| |  | 0x007c |  |
-| **125** | 0x7d | } |  | 0x007d |  |
-| **126** | 0x7e | ~ |  | 0x007e |  |
+| **32** | 0x20 | _mezera_ | SPACE | U+0020 |  |
+| **33** | 0x21 | ! | EXCLAMATION MARK | U+0021 | Některé fonty tento znak nemají |
+| **34** | 0x22 | " | QUOTATION MARK | U+0022 | Některé fonty tento znak nemají |
+| **35** | 0x23 | \# | NUMBER SIGN | U+0023 | Některé fonty tento znak nemají |
+| **36** | 0x24 | $ | DOLLAR SIGN | U+0024 | Některé fonty tento znak nemají |
+| **37** | 0x25 | % | PERCENT SIGN | U+0025 | Některé fonty tento znak nemají |
+| **38** | 0x26 | & | AMPERSAND | U+0026 | Některé fonty tento znak nemají |
+| **39** | 0x27 | ' | APOSTROPHE | U+0027 | Některé fonty tento znak nemají |
+| **40** | 0x28 | \( | LEFT PARENTHESIS | U+0028 | Některé fonty tento znak nemají |
+| **41** | 0x29 | \) | RIGHT PARENTHESIS | U+0029 | Některé fonty tento znak nemají |
+| **42** | 0x2a | \* | ASTERISK | U+002a | Některé fonty tento znak nemají |
+| **43** | 0x2b | + | PLUS SIGN | U+002b | Některé fonty tento znak nemají |
+| **44** | 0x2c | , | COMMA | U+002c | Některé fonty tento znak nemají |
+| **45** | 0x2d | - | HYPHEN-MINUS | U+002d | Některé fonty tento znak nemají |
+| **46** | 0x2e | . | FULL STOP | U+002e | Některé fonty tento znak nemají |
+| **47** | 0x2f | / | SOLIDUS | U+002f | Některé fonty zde mají znak  \(92\) |
+| **48** | 0x30 | 0 | DIGIT ZERO | U+0030 |  |
+| **49** | 0x31 | 1 | DIGIT ONE | U+0031 |  |
+| **50** | 0x32 | 2 | DIGIT TWO | U+0032 |  |
+| **51** | 0x33 | 3 | DIGIT THREE | U+0033 |  |
+| **52** | 0x34 | 4 | DIGIT FOUR | U+0034 |  |
+| **53** | 0x35 | 5 | DIGIT FIVE | U+0035 |  |
+| **54** | 0x36 | 6 | DIGIT SIX | U+0036 |  |
+| **55** | 0x37 | 7 | DIGIT SEVEN | U+0037 |  |
+| **56** | 0x38 | 8 | DIGIT EIGHT | U+0038 |  |
+| **57** | 0x39 | 9 | DIGIT NINE | U+0039 |  |
+| **58** | 0x3a | : | COLON | U+003a |  |
+| **59** | 0x3b | ; | SEMICOLON | U+003b |  |
+| **60** | 0x3c | &lt; | LESS-THAN SIGN | U+003c |  |
+| **61** | 0x3d | = | EQUALS SIGN | U+003d |  |
+| **62** | 0x3e | &gt; | GREATER-THAN SIGN | U+003e |  |
+| **63** | 0x3f | ? | QUESTION MARK | U+003f |  |
+| **64** | 0x40 | @ | COMMERCIAL AT | U+0040 |  |
+| **65** | 0x41 | A | LATIN CAPITAL LETTER A | U+0041 |  |
+| **66** | 0x42 | B | LATIN CAPITAL LETTER B | U+0042 |  |
+| **67** | 0x43 | C | LATIN CAPITAL LETTER C | U+0043 |  |
+| **68** | 0x44 | D | LATIN CAPITAL LETTER D | U+0044 |  |
+| **69** | 0x45 | E | LATIN CAPITAL LETTER E | U+0045 |  |
+| **70** | 0x46 | F | LATIN CAPITAL LETTER F | U+0046 |  |
+| **71** | 0x47 | G | LATIN CAPITAL LETTER G | U+0047 |  |
+| **72** | 0x48 | H | LATIN CAPITAL LETTER H | U+0048 |  |
+| **73** | 0x49 | I | LATIN CAPITAL LETTER I | U+0049 |  |
+| **74** | 0x4a | J | LATIN CAPITAL LETTER J | U+004a |  |
+| **75** | 0x4b | K | LATIN CAPITAL LETTER K | U+004b |  |
+| **76** | 0x4c | L | LATIN CAPITAL LETTER L | U+004c |  |
+| **77** | 0x4d | M | LATIN CAPITAL LETTER M | U+004d |  |
+| **78** | 0x4e | N | LATIN CAPITAL LETTER N | U+004e |  |
+| **79** | 0x4f | O | LATIN CAPITAL LETTER O | U+004f |  |
+| **80** | 0x50 | P | LATIN CAPITAL LETTER P | U+0050 |  |
+| **81** | 0x51 | Q | LATIN CAPITAL LETTER Q | U+0051 |  |
+| **82** | 0x52 | R | LATIN CAPITAL LETTER R | U+0052 |  |
+| **83** | 0x53 | S | LATIN CAPITAL LETTER S | U+0053 |  |
+| **84** | 0x54 | T | LATIN CAPITAL LETTER T | U+0054 |  |
+| **85** | 0x55 | U | LATIN CAPITAL LETTER U | U+0055 |  |
+| **86** | 0x56 | V | LATIN CAPITAL LETTER V | U+0056 |  |
+| **87** | 0x57 | W | LATIN CAPITAL LETTER W | U+0057 |  |
+| **88** | 0x58 | X | LATIN CAPITAL LETTER X | U+0058 |  |
+| **89** | 0x59 | Y | LATIN CAPITAL LETTER Y | U+0059 |  |
+| **90** | 0x5a | Z | LATIN CAPITAL LETTER Z | U+005a |  |
+| **91** | 0x5b | \[ |  | U+005b |  |
+| **92** | 0x5c | \ |  | U+005c |  |
+| **93** | 0x5d | \] |  | U+005d |  |
+| **94** | 0x5e | ^ |  | U+005e |  |
+| **95** | 0x5f | \_ |  | U+005f |  |
+| **96** | 0x60 | \` |  | U+0060 |  |
+| **97** | 0x61 | a |  | U+0061 |  |
+| **98** | 0x62 | b |  | U+0062 |  |
+| **99** | 0x63 | c |  | U+0063 |  |
+| **100** | 0x64 | d |  | U+0064 |  |
+| **101** | 0x65 | e |  | U+0065 |  |
+| **102** | 0x66 | f |  | U+0066 |  |
+| **103** | 0x67 | g |  | U+0067 |  |
+| **104** | 0x68 | h |  | U+0068 |  |
+| **105** | 0x69 | i |  | U+0069 |  |
+| **106** | 0x6a | j |  | U+006a |  |
+| **107** | 0x6b | k |  | U+006b |  |
+| **108** | 0x6c | l |  | U+006c |  |
+| **109** | 0x6d | m |  | U+006d |  |
+| **110** | 0x6e | n |  | U+006e |  |
+| **111** | 0x6f | o |  | U+006f |  |
+| **112** | 0x70 | p |  | U+0070 |  |
+| **113** | 0x71 | q |  | U+0071 |  |
+| **114** | 0x72 | r |  | U+0072 |  |
+| **115** | 0x73 | s |  | U+0073 |  |
+| **116** | 0x74 | t |  | U+0074 |  |
+| **117** | 0x75 | u |  | U+0075 |  |
+| **118** | 0x76 | v |  | U+0076 |  |
+| **119** | 0x77 | w |  | U+0077 |  |
+| **120** | 0x78 | x |  | U+0078 |  |
+| **121** | 0x79 | y |  | U+0079 |  |
+| **122** | 0x7a | z |  | U+007a |  |
+| **123** | 0x7b | { |  | U+007b |  |
+| **124** | 0x7c | \| |  | U+007c |  |
+| **125** | 0x7d | } |  | U+007d |  |
+| **126** | 0x7e | ~ |  | U+007e |  |
 
 Znaky 128-??? bla bla bla...
 
 | Dec | Hex | Znak | Unicode | UTF-8 | Poznámka |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **128** | 0x80 | Č | LATIN CAPITAL LETTER C WITH CARON | 0x010c |  |
-| **129** | 0x81 | ü | LATIN SMALL LETTER U WITH DIAERESIS | 0x00fc |  |
-| **130** | 0x82 | é | LATIN SMALL LETTER E WITH ACUTE | 0x00e9 |  |
+| **128** | 0x80 | Č | LATIN CAPITAL LETTER C WITH CARON | U+010c |  |
+| **129** | 0x81 | ü | LATIN SMALL LETTER U WITH DIAERESIS | U+00fc |  |
+| **130** | 0x82 | é | LATIN SMALL LETTER E WITH ACUTE | U+00e9 |  |
 |  |  |  |  |  |  |
 
 ## Odkazy
