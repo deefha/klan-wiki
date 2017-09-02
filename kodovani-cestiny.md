@@ -99,20 +99,20 @@ Znaky 0-127 odpovídají standardní ASCII tabulce, ale ne každý font obsahuje
 | **96** | 0x60 | \` | GRAVE ACCENT | U+0060 | Některé fonty tento znak neobsahují |
 | **97** | 0x61 | a | LATIN SMALL LETTER A | U+0061 | Některé fonty zde mají znak "A" \(65\) |
 | **98** | 0x62 | b | LATIN SMALL LETTER B | U+0062 | Některé fonty zde mají znak "B" \(66\) |
-| **99** | 0x63 | c | LATIN SMALL LETTER C | U+0063 |  |
-| **100** | 0x64 | d | LATIN SMALL LETTER D | U+0064 |  |
-| **101** | 0x65 | e | LATIN SMALL LETTER E | U+0065 |  |
-| **102** | 0x66 | f | LATIN SMALL LETTER F | U+0066 |  |
-| **103** | 0x67 | g | LATIN SMALL LETTER G | U+0067 |  |
-| **104** | 0x68 | h | LATIN SMALL LETTER H | U+0068 |  |
-| **105** | 0x69 | i | LATIN SMALL LETTER I | U+0069 |  |
-| **106** | 0x6a | j | LATIN SMALL LETTER J | U+006a |  |
-| **107** | 0x6b | k | LATIN SMALL LETTER K | U+006b |  |
-| **108** | 0x6c | l | LATIN SMALL LETTER L | U+006c |  |
-| **109** | 0x6d | m | LATIN SMALL LETTER M | U+006d |  |
-| **110** | 0x6e | n | LATIN SMALL LETTER N | U+006e |  |
-| **111** | 0x6f | o | LATIN SMALL LETTER O | U+006f |  |
-| **112** | 0x70 | p | LATIN SMALL LETTER P | U+0070 |  |
+| **99** | 0x63 | c | LATIN SMALL LETTER C | U+0063 | Některé fonty zde mají znak "C" \(67\) |
+| **100** | 0x64 | d | LATIN SMALL LETTER D | U+0064 | Některé fonty zde mají znak "D" \(68\) |
+| **101** | 0x65 | e | LATIN SMALL LETTER E | U+0065 | Některé fonty zde mají znak "E" \(69\) |
+| **102** | 0x66 | f | LATIN SMALL LETTER F | U+0066 | Některé fonty zde mají znak "F" \(70\) |
+| **103** | 0x67 | g | LATIN SMALL LETTER G | U+0067 | Některé fonty zde mají znak "G" \(71\) |
+| **104** | 0x68 | h | LATIN SMALL LETTER H | U+0068 | Některé fonty zde mají znak "H" \(72\) |
+| **105** | 0x69 | i | LATIN SMALL LETTER I | U+0069 | Některé fonty zde mají znak "I" \(73\) |
+| **106** | 0x6a | j | LATIN SMALL LETTER J | U+006a | Některé fonty zde mají znak "J" \(74\) |
+| **107** | 0x6b | k | LATIN SMALL LETTER K | U+006b | Některé fonty zde mají znak "K" \(75\) |
+| **108** | 0x6c | l | LATIN SMALL LETTER L | U+006c | Některé fonty zde mají znak "L" \(76\) |
+| **109** | 0x6d | m | LATIN SMALL LETTER M | U+006d | Některé fonty zde mají znak "M" \(77\) |
+| **110** | 0x6e | n | LATIN SMALL LETTER N | U+006e | Některé fonty zde mají znak "N" \(78\) |
+| **111** | 0x6f | o | LATIN SMALL LETTER O | U+006f | Některé fonty zde mají znak "O" \(79\) |
+| **112** | 0x70 | p | LATIN SMALL LETTER P | U+0070 | Některé fonty zde mají znak "P" \(80\) |
 | **113** | 0x71 | q | LATIN SMALL LETTER Q | U+0071 |  |
 | **114** | 0x72 | r | LATIN SMALL LETTER R | U+0072 |  |
 | **115** | 0x73 | s | LATIN SMALL LETTER S | U+0073 |  |
