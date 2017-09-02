@@ -33,20 +33,20 @@ Znaky 0-127 odpovídají standardní ASCII tabulce, ale ne každý font obsahuje
 | Dec | Hex | Znak | Unicode | UTF-8 | Poznámka |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **32** | 0x20 | _mezera_ | SPACE | U+0020 |  |
-| **33** | 0x21 | ! | EXCLAMATION MARK | U+0021 | Některé fonty tento znak nemají |
-| **34** | 0x22 | " | QUOTATION MARK | U+0022 | Některé fonty tento znak nemají |
-| **35** | 0x23 | \# | NUMBER SIGN | U+0023 | Některé fonty tento znak nemají |
-| **36** | 0x24 | $ | DOLLAR SIGN | U+0024 | Některé fonty tento znak nemají |
-| **37** | 0x25 | % | PERCENT SIGN | U+0025 | Některé fonty tento znak nemají |
-| **38** | 0x26 | & | AMPERSAND | U+0026 | Některé fonty tento znak nemají |
-| **39** | 0x27 | ' | APOSTROPHE | U+0027 | Některé fonty tento znak nemají |
-| **40** | 0x28 | \( | LEFT PARENTHESIS | U+0028 | Některé fonty tento znak nemají |
-| **41** | 0x29 | \) | RIGHT PARENTHESIS | U+0029 | Některé fonty tento znak nemají |
-| **42** | 0x2a | \* | ASTERISK | U+002a | Některé fonty tento znak nemají |
-| **43** | 0x2b | + | PLUS SIGN | U+002b | Některé fonty tento znak nemají |
-| **44** | 0x2c | , | COMMA | U+002c | Některé fonty tento znak nemají |
-| **45** | 0x2d | - | HYPHEN-MINUS | U+002d | Některé fonty tento znak nemají |
-| **46** | 0x2e | . | FULL STOP | U+002e | Některé fonty tento znak nemají |
+| **33** | 0x21 | ! | EXCLAMATION MARK | U+0021 | Některé fonty tento znak neobsahují |
+| **34** | 0x22 | " | QUOTATION MARK | U+0022 | Některé fonty tento znak neobsahují |
+| **35** | 0x23 | \# | NUMBER SIGN | U+0023 | Některé fonty tento znak neobsahují |
+| **36** | 0x24 | $ | DOLLAR SIGN | U+0024 | Některé fonty tento znak neobsahují |
+| **37** | 0x25 | % | PERCENT SIGN | U+0025 | Některé fonty tento znak neobsahují |
+| **38** | 0x26 | & | AMPERSAND | U+0026 | Některé fonty tento znak neobsahují |
+| **39** | 0x27 | ' | APOSTROPHE | U+0027 | Některé fonty tento znak neobsahují |
+| **40** | 0x28 | \( | LEFT PARENTHESIS | U+0028 | Některé fonty tento znak neobsahují |
+| **41** | 0x29 | \) | RIGHT PARENTHESIS | U+0029 | Některé fonty tento znak neobsahují |
+| **42** | 0x2a | \* | ASTERISK | U+002a | Některé fonty tento znak neobsahují |
+| **43** | 0x2b | + | PLUS SIGN | U+002b | Některé fonty tento znak neobsahují |
+| **44** | 0x2c | , | COMMA | U+002c | Některé fonty tento znak neobsahují |
+| **45** | 0x2d | - | HYPHEN-MINUS | U+002d | Některé fonty tento znak neobsahují |
+| **46** | 0x2e | . | FULL STOP | U+002e | Některé fonty tento znak neobsahují |
 | **47** | 0x2f | / | SOLIDUS | U+002f | Některé fonty zde mají znak "\" \(92\) |
 | **48** | 0x30 | 0 | DIGIT ZERO | U+0030 |  |
 | **49** | 0x31 | 1 | DIGIT ONE | U+0031 |  |
@@ -64,7 +64,7 @@ Znaky 0-127 odpovídají standardní ASCII tabulce, ale ne každý font obsahuje
 | **61** | 0x3d | = | EQUALS SIGN | U+003d |  |
 | **62** | 0x3e | &gt; | GREATER-THAN SIGN | U+003e |  |
 | **63** | 0x3f | ? | QUESTION MARK | U+003f |  |
-| **64** | 0x40 | @ | COMMERCIAL AT | U+0040 |  |
+| **64** | 0x40 | @ | COMMERCIAL AT | U+0040 | Některé fonty tento znak neobsahují |
 | **65** | 0x41 | A | LATIN CAPITAL LETTER A | U+0041 |  |
 | **66** | 0x42 | B | LATIN CAPITAL LETTER B | U+0042 |  |
 | **67** | 0x43 | C | LATIN CAPITAL LETTER C | U+0043 |  |
@@ -96,7 +96,7 @@ Znaky 0-127 odpovídají standardní ASCII tabulce, ale ne každý font obsahuje
 | **93** | 0x5d | \] | RIGHT SQUARE BRACKET | U+005d |  |
 | **94** | 0x5e | ^ | CIRCUMFLEX ACCENT | U+005e |  |
 | **95** | 0x5f | \_ | LOW LINE | U+005f |  |
-| **96** | 0x60 | \` | GRAVE ACCENT | U+0060 |  |
+| **96** | 0x60 | \` | GRAVE ACCENT | U+0060 | Některé fonty tento znak neobsahují |
 | **97** | 0x61 | a | LATIN SMALL LETTER A | U+0061 |  |
 | **98** | 0x62 | b | LATIN SMALL LETTER B | U+0062 |  |
 | **99** | 0x63 | c | LATIN SMALL LETTER C | U+0063 |  |
@@ -126,7 +126,7 @@ Znaky 0-127 odpovídají standardní ASCII tabulce, ale ne každý font obsahuje
 | **123** | 0x7b | { | LEFT CURLY BRACKET | U+007b |  |
 | **124** | 0x7c | \| | VERTICAL LINE | U+007c |  |
 | **125** | 0x7d | } | RIGHT CURLY BRACKET | U+007d |  |
-| **126** | 0x7e | ~ | TILDE | U+007e |  |
+| **126** | 0x7e | ~ | TILDE | U+007e | Některé fonty tento znak neobsahují |
 
 ### Znaky 128-175
 
@@ -135,7 +135,7 @@ Znaky 128-175 odpovídají tabulce Kódu Kamenických, ale ne každý font obsah
 | Dec | Hex | Znak | Unicode | UTF-8 | Poznámka |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **128** | 0x80 | Č | LATIN CAPITAL LETTER C WITH CARON | U+010c |  |
-| **129** | 0x81 | ü | LATIN SMALL LETTER U WITH DIAERESIS | U+00fc | Některé fonty tento znak nemají |
+| **129** | 0x81 | ü | LATIN SMALL LETTER U WITH DIAERESIS | U+00fc | Některé fonty tento znak neobsahují |
 | **130** | 0x82 | é | LATIN SMALL LETTER E WITH ACUTE | U+00e9 |  |
 | **131** | 0x83 | ď | LATIN SMALL LETTER D WITH CARON | U+010f |  |
 | **132** | 0x84 |  |  |  |  |
