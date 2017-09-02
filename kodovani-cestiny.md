@@ -59,11 +59,11 @@ Znaky 0-127 odpovídají standardní ASCII tabulce, ale ne každý font obsahuje
 | **56** | 0x38 | 8 | DIGIT EIGHT | U+0038 |  |
 | **57** | 0x39 | 9 | DIGIT NINE | U+0039 |  |
 | **58** | 0x3a | : | COLON | U+003a |  |
-| **59** | 0x3b | ; | SEMICOLON | U+003b |  |
-| **60** | 0x3c | &lt; | LESS-THAN SIGN | U+003c |  |
-| **61** | 0x3d | = | EQUALS SIGN | U+003d |  |
-| **62** | 0x3e | &gt; | GREATER-THAN SIGN | U+003e |  |
-| **63** | 0x3f | ? | QUESTION MARK | U+003f |  |
+| **59** | 0x3b | ; | SEMICOLON | U+003b | Některé fonty tento znak neobsahují |
+| **60** | 0x3c | &lt; | LESS-THAN SIGN | U+003c | Některé fonty tento znak neobsahují |
+| **61** | 0x3d | = | EQUALS SIGN | U+003d | Některé fonty tento znak neobsahují |
+| **62** | 0x3e | &gt; | GREATER-THAN SIGN | U+003e | Některé fonty tento znak neobsahují |
+| **63** | 0x3f | ? | QUESTION MARK | U+003f | Některé fonty tento znak neobsahují |
 | **64** | 0x40 | @ | COMMERCIAL AT | U+0040 | Některé fonty tento znak neobsahují |
 | **65** | 0x41 | A | LATIN CAPITAL LETTER A | U+0041 |  |
 | **66** | 0x42 | B | LATIN CAPITAL LETTER B | U+0042 |  |
@@ -91,14 +91,14 @@ Znaky 0-127 odpovídají standardní ASCII tabulce, ale ne každý font obsahuje
 | **88** | 0x58 | X | LATIN CAPITAL LETTER X | U+0058 |  |
 | **89** | 0x59 | Y | LATIN CAPITAL LETTER Y | U+0059 |  |
 | **90** | 0x5a | Z | LATIN CAPITAL LETTER Z | U+005a |  |
-| **91** | 0x5b | \[ | LEFT SQUARE BRACKET | U+005b |  |
-| **92** | 0x5c | \ | REVERSE SOLIDUS | U+005c |  |
-| **93** | 0x5d | \] | RIGHT SQUARE BRACKET | U+005d |  |
-| **94** | 0x5e | ^ | CIRCUMFLEX ACCENT | U+005e |  |
-| **95** | 0x5f | \_ | LOW LINE | U+005f |  |
+| **91** | 0x5b | \[ | LEFT SQUARE BRACKET | U+005b | Některé fonty tento znak neobsahují |
+| **92** | 0x5c | \ | REVERSE SOLIDUS | U+005c | Některé fonty tento znak neobsahují |
+| **93** | 0x5d | \] | RIGHT SQUARE BRACKET | U+005d | Některé fonty tento znak neobsahují |
+| **94** | 0x5e | ^ | CIRCUMFLEX ACCENT | U+005e | Některé fonty tento znak neobsahují |
+| **95** | 0x5f | \_ | LOW LINE | U+005f | Některé fonty tento znak neobsahují |
 | **96** | 0x60 | \` | GRAVE ACCENT | U+0060 | Některé fonty tento znak neobsahují |
-| **97** | 0x61 | a | LATIN SMALL LETTER A | U+0061 |  |
-| **98** | 0x62 | b | LATIN SMALL LETTER B | U+0062 |  |
+| **97** | 0x61 | a | LATIN SMALL LETTER A | U+0061 | Některé fonty zde mají znak "A" \(65\) |
+| **98** | 0x62 | b | LATIN SMALL LETTER B | U+0062 | Některé fonty zde mají znak "B" \(66\) |
 | **99** | 0x63 | c | LATIN SMALL LETTER C | U+0063 |  |
 | **100** | 0x64 | d | LATIN SMALL LETTER D | U+0064 |  |
 | **101** | 0x65 | e | LATIN SMALL LETTER E | U+0065 |  |
@@ -123,9 +123,9 @@ Znaky 0-127 odpovídají standardní ASCII tabulce, ale ne každý font obsahuje
 | **120** | 0x78 | x | LATIN SMALL LETTER X | U+0078 |  |
 | **121** | 0x79 | y | LATIN SMALL LETTER Y | U+0079 |  |
 | **122** | 0x7a | z | LATIN SMALL LETTER Z | U+007a |  |
-| **123** | 0x7b | { | LEFT CURLY BRACKET | U+007b |  |
-| **124** | 0x7c | \| | VERTICAL LINE | U+007c |  |
-| **125** | 0x7d | } | RIGHT CURLY BRACKET | U+007d |  |
+| **123** | 0x7b | { | LEFT CURLY BRACKET | U+007b | Některé fonty tento znak neobsahují |
+| **124** | 0x7c | \| | VERTICAL LINE | U+007c | Některé fonty tento znak neobsahují |
+| **125** | 0x7d | } | RIGHT CURLY BRACKET | U+007d | Některé fonty tento znak neobsahují |
 | **126** | 0x7e | ~ | TILDE | U+007e | Některé fonty tento znak neobsahují |
 
 ### Znaky 128-175
