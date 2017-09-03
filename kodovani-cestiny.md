@@ -136,7 +136,7 @@ Znaky 128-175 odpovídají tabulce Kódu Kamenických, ale ne každý font obsah
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **128** | 0x80 | Č | LATIN CAPITAL LETTER C WITH CARON | U+010c |  |
 | **129** | 0x81 | ü | LATIN SMALL LETTER U WITH DIAERESIS | U+00fc | Některé fonty tento znak neobsahují |
-| **130** | 0x82 | é | LATIN SMALL LETTER E WITH ACUTE | U+00e9 | Některé fonty zde mají znak "É" \(\) |
+| **130** | 0x82 | é | LATIN SMALL LETTER E WITH ACUTE | U+00e9 | Některé fonty zde mají znak "É" \(144\) |
 | **131** | 0x83 | ď | LATIN SMALL LETTER D WITH CARON | U+010f | Některé fonty tento znak neobsahují |
 | **132** | 0x84 | ä | LATIN SMALL LETTER A WITH DIAERESIS | U+00e4 | Některé fonty tento znak neobsahují |
 | **133** | 0x85 | Ď | LATIN CAPITAL LETTER D WITH CARON | U+010e |  |
@@ -150,11 +150,11 @@ Znaky 128-175 odpovídají tabulce Kódu Kamenických, ale ne každý font obsah
 | **141** | 0x8d | ĺ | LATIN SMALL LETTER L WITH ACUTE | U+013a | Žádný font tento znak neobsahuje |
 | **142** | 0x8e | Ä | LATIN CAPITAL LETTER A WITH DIAERESIS | U+00c4 | Některé fonty tento znak neobsahují |
 | **143** | 0x8f | Á | LATIN CAPITAL LETTER A WITH ACUTE | U+00c1 |  |
-| **144** | 0x90 |  |  |  |  |
-| **145** | 0x91 |  |  |  |  |
-| **146** | 0x92 |  |  |  |  |
-| **147** | 0x93 |  |  |  |  |
-| **148** | 0x94 |  |  |  |  |
+| **144** | 0x90 | É | LATIN CAPITAL LETTER E WITH ACUTE | U+00c9 |  |
+| **145** | 0x91 | ž | LATIN SMALL LETTER Z WITH CARON | U+017e | Některé fonty zde mají znak "Ž" \(146\) |
+| **146** | 0x92 | Ž | LATIN CAPITAL LETTER Z WITH CARON | U+017d |  |
+| **147** | 0x93 | ô | LATIN SMALL LETTER O WITH CIRCUMFLEX | U+00f4 | Některé fonty tento znak neobsahují |
+| **148** | 0x94 | ö | LATIN SMALL LETTER O WITH DIAERESIS | U+00f6 | Některé fonty tento znak neobsahují |
 | **149** | 0x95 |  |  |  |  |
 | **150** | 0x96 |  |  |  |  |
 | **151** | 0x97 |  |  |  |  |
