@@ -156,9 +156,9 @@ Znaky 128-173 odpovídají tabulce Kódu Kamenických, ale ne každý font obsah
 | **147** | 0x93 | ô | LATIN SMALL LETTER O WITH CIRCUMFLEX | U+00f4 | Některé fonty tento znak neobsahují |
 | **148** | 0x94 | ö | LATIN SMALL LETTER O WITH DIAERESIS | U+00f6 | Některé fonty tento znak neobsahují |
 | **149** | 0x95 | Ó | LATIN CAPITAL LETTER O WITH ACUTE | U+00d3 |  |
-| **150** | 0x96 | ů | LATIN SMALL LETTER U WITH RING ABOVE | U+016f | Některé fonty zde mají znak "Ů" \(\) |
+| **150** | 0x96 | ů | LATIN SMALL LETTER U WITH RING ABOVE | U+016f | Některé fonty zde mají znak "Ů" \(166\) |
 | **151** | 0x97 | Ú | LATIN CAPITAL LETTER U WITH ACUTE | U+00da |  |
-| **152** | 0x98 | ý | LATIN SMALL LETTER Y WITH ACUTE | U+00fd | Některé fonty zde mají znak "Ý" \(\) |
+| **152** | 0x98 | ý | LATIN SMALL LETTER Y WITH ACUTE | U+00fd | Některé fonty zde mají znak "Ý" \(157\) |
 | **153** | 0x99 | Ö | LATIN CAPITAL LETTER O WITH DIAERESIS | U+00d6 | Některé fonty tento znak neobsahují |
 | **154** | 0x9a | Ü | LATIN CAPITAL LETTER U WITH DIAERESIS | U+00dc | Některé fonty tento znak neobsahují |
 | **155** | 0x9b | Š | LATIN CAPITAL LETTER S WITH CARON | U+0160 |  |
@@ -195,6 +195,10 @@ Znaky 174-255 buďto neodpovídají tabulce Kódu Kamenických, nebo nejsou vůb
 | **235** | 0xeb | ë | LATIN SMALL LETTER E WITH DIAERESIS | U+00eb | Některé fonty tento znak neobsahují |
 | **239** | 0xef | ï | LATIN SMALL LETTER I WITH DIAERESIS | U+00ef | Některé fonty tento znak neobsahují |
 | **241** | 0xf1 | ± | PLUS-MINUS SIGN | U+00b1 | Některé fonty tento znak neobsahují |
+| **244** | 0xf4 | ® | REGISTERED SIGN | U+00ae | Některé fonty tento znak neobsahují, některé fonty zde mají znak "©" \(245\) |
+| **245** | 0xf5 | © | COPYRIGHT SIGN | U+00a9 | Některé fonty tento znak neobsahují, některé fonty zde mají znak "®" \(244\) |
+| **248** | 0xf8 | ° | DEGREE SIGN | U+00b0 | Některé fonty tento znak neobsahují |
+| **252** | 0xfc | ™ | TRADE MARK SIGN | U+2122 | Některé fonty tento znak neobsahují |
 
 ## Odkazy
 
