@@ -130,7 +130,7 @@ Znaky 0-127 odpovídají standardní ASCII tabulce, ale ne každý font obsahuje
 
 ### Znaky 128-175
 
-Znaky 128-175 odpovídají tabulce Kódu Kamenických, ale ne každý font obsahuje všechny znaky.
+Znaky 128-175 odpovídají tabulce Kódu Kamenických, ale ne každý font obsahuje všechny znaky. Některé znaky neobsahuje žádný font, v tabulce jsou ale pro úplnost přesto uvedeny.
 
 | Dec | Hex | Znak | Unicode | UTF-8 | Poznámka |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -142,14 +142,14 @@ Znaky 128-175 odpovídají tabulce Kódu Kamenických, ale ne každý font obsah
 | **133** | 0x85 | Ď | LATIN CAPITAL LETTER D WITH CARON | U+010e |  |
 | **134** | 0x86 | Ť | LATIN CAPITAL LETTER T WITH CARON | U+0164 |  |
 | **135** | 0x87 | č | LATIN SMALL LETTER C WITH CARON | U+010d | Některé fonty zde mají znak "Č" \(128\) |
-| **136** | 0x88 |  |  |  |  |
-| **137** | 0x89 |  |  |  |  |
-| **138** | 0x8a |  |  |  |  |
-| **139** | 0x8b |  |  |  |  |
-| **140** | 0x8c |  |  |  |  |
-| **141** | 0x8d |  |  |  |  |
-| **142** | 0x8e |  |  |  |  |
-| **143** | 0x8f |  |  |  |  |
+| **136** | 0x88 | ě | LATIN SMALL LETTER E WITH CARON | U+011b | Některé fonty zde mají znak "Ě" \(138\) |
+| **137** | 0x89 | Ě | LATIN CAPITAL LETTER E WITH CARON | U+011a |  |
+| **138** | 0x8a | Ĺ | LATIN CAPITAL LETTER L WITH ACUTE | U+0139 | Žádný font tento znak neobsahuje |
+| **139** | 0x8b | Í | LATIN CAPITAL LETTER I WITH ACUTE | U+00cd |  |
+| **140** | 0x8c | ľ | LATIN SMALL LETTER L WITH CARON | U+013e | Žádný font tento znak neobsahuje |
+| **141** | 0x8d | ĺ | LATIN SMALL LETTER L WITH ACUTE | U+013a | Žádný font tento znak neobsahuje |
+| **142** | 0x8e | Ä | LATIN CAPITAL LETTER A WITH DIAERESIS | U+00c4 | Některé fonty tento znak neobsahují |
+| **143** | 0x8f | Á | LATIN CAPITAL LETTER A WITH ACUTE | U+00c1 |  |
 | **144** | 0x90 |  |  |  |  |
 | **145** | 0x91 |  |  |  |  |
 | **146** | 0x92 |  |  |  |  |
