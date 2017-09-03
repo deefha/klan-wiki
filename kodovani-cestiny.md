@@ -113,16 +113,16 @@ Znaky 0-127 odpovídají standardní ASCII tabulce, ale ne každý font obsahuje
 | **110** | 0x6e | n | LATIN SMALL LETTER N | U+006e | Některé fonty zde mají znak "N" \(78\) |
 | **111** | 0x6f | o | LATIN SMALL LETTER O | U+006f | Některé fonty zde mají znak "O" \(79\) |
 | **112** | 0x70 | p | LATIN SMALL LETTER P | U+0070 | Některé fonty zde mají znak "P" \(80\) |
-| **113** | 0x71 | q | LATIN SMALL LETTER Q | U+0071 |  |
-| **114** | 0x72 | r | LATIN SMALL LETTER R | U+0072 |  |
-| **115** | 0x73 | s | LATIN SMALL LETTER S | U+0073 |  |
-| **116** | 0x74 | t | LATIN SMALL LETTER T | U+0074 |  |
-| **117** | 0x75 | u | LATIN SMALL LETTER U | U+0075 |  |
-| **118** | 0x76 | v | LATIN SMALL LETTER V | U+0076 |  |
-| **119** | 0x77 | w | LATIN SMALL LETTER W | U+0077 |  |
-| **120** | 0x78 | x | LATIN SMALL LETTER X | U+0078 |  |
-| **121** | 0x79 | y | LATIN SMALL LETTER Y | U+0079 |  |
-| **122** | 0x7a | z | LATIN SMALL LETTER Z | U+007a |  |
+| **113** | 0x71 | q | LATIN SMALL LETTER Q | U+0071 | Některé fonty zde mají znak "Q" \(81\) |
+| **114** | 0x72 | r | LATIN SMALL LETTER R | U+0072 | Některé fonty zde mají znak "R" \(82\) |
+| **115** | 0x73 | s | LATIN SMALL LETTER S | U+0073 | Některé fonty zde mají znak "S" \(83\) |
+| **116** | 0x74 | t | LATIN SMALL LETTER T | U+0074 | Některé fonty zde mají znak "T" \(84\) |
+| **117** | 0x75 | u | LATIN SMALL LETTER U | U+0075 | Některé fonty zde mají znak "U" \(85\) |
+| **118** | 0x76 | v | LATIN SMALL LETTER V | U+0076 | Některé fonty zde mají znak "V" \(86\) |
+| **119** | 0x77 | w | LATIN SMALL LETTER W | U+0077 | Některé fonty zde mají znak "W" \(87\) |
+| **120** | 0x78 | x | LATIN SMALL LETTER X | U+0078 | Některé fonty zde mají znak "X" \(88\) |
+| **121** | 0x79 | y | LATIN SMALL LETTER Y | U+0079 | Některé fonty zde mají znak "Y" \(89\) |
+| **122** | 0x7a | z | LATIN SMALL LETTER Z | U+007a | Některé fonty zde mají znak "Z" \(90\) |
 | **123** | 0x7b | { | LEFT CURLY BRACKET | U+007b | Některé fonty tento znak neobsahují |
 | **124** | 0x7c | \| | VERTICAL LINE | U+007c | Některé fonty tento znak neobsahují |
 | **125** | 0x7d | } | RIGHT CURLY BRACKET | U+007d | Některé fonty tento znak neobsahují |
@@ -136,8 +136,8 @@ Znaky 128-175 odpovídají tabulce Kódu Kamenických, ale ne každý font obsah
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **128** | 0x80 | Č | LATIN CAPITAL LETTER C WITH CARON | U+010c |  |
 | **129** | 0x81 | ü | LATIN SMALL LETTER U WITH DIAERESIS | U+00fc | Některé fonty tento znak neobsahují |
-| **130** | 0x82 | é | LATIN SMALL LETTER E WITH ACUTE | U+00e9 |  |
-| **131** | 0x83 | ď | LATIN SMALL LETTER D WITH CARON | U+010f |  |
+| **130** | 0x82 | é | LATIN SMALL LETTER E WITH ACUTE | U+00e9 | Některé fonty zde mají znak "É" \(\) |
+| **131** | 0x83 | ď | LATIN SMALL LETTER D WITH CARON | U+010f | Některé fonty tento znak neobsahují |
 | **132** | 0x84 |  |  |  |  |
 | **133** | 0x85 |  |  |  |  |
 | **134** | 0x86 |  |  |  |  |
