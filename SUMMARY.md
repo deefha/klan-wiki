@@ -1,6 +1,7 @@
 # Summary
 
 * [Úvod](README.md)
+* [Struktura](struktura.md)
 * [Vydání](vydani.md)
   * [KLAN \#00](vydani/klan-00.md)
   * [KLAN \#01](vydani/klan-01.md)
@@ -84,5 +85,4 @@
   * [Znaky 128-173](kodovani-cestiny/znaky-128-173.md)
   * [Znaky 174-255](kodovani-cestiny/znaky-174-255.md)
 * [Použitý software](pouzity-software.md)
-* [Struktura](struktura.md)
 
