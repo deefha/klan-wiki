@@ -130,7 +130,7 @@ Znaky 0-127 odpovídají standardní ASCII tabulce, ale ne každý font obsahuje
 
 ### Znaky 128-175
 
-Znaky 128-175 odpovídají tabulce Kódu Kamenických, ale ne každý font obsahuje všechny znaky. Některé znaky neobsahuje žádný font, v tabulce jsou ale pro úplnost přesto uvedeny.
+Znaky 128-175 odpovídají tabulce Kódu Kamenických, ale ne každý font obsahuje všechny znaky. Některé znaky dokonce neobsahuje žádný font, v tabulce jsou ale pro úplnost přesto uvedeny všechny.
 
 | Dec | Hex | Znak | Unicode | UTF-8 | Poznámka |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -166,18 +166,18 @@ Znaky 128-175 odpovídají tabulce Kódu Kamenických, ale ne každý font obsah
 | **157** | 0x9d | Ý | LATIN CAPITAL LETTER Y WITH ACUTE | U+00dd |  |
 | **158** | 0x9e | Ř | LATIN CAPITAL LETTER R WITH CARON | U+0158 |  |
 | **159** | 0x9f | ť | LATIN SMALL LETTER T WITH CARON | U+0165 | Některé fonty zde mají znak "Ť" \(134\) |
-| **160** | 0xa0 |  |  |  |  |
-| **161** | 0xa1 |  |  |  |  |
-| **162** | 0xa2 |  |  |  |  |
-| **163** | 0xa3 |  |  |  |  |
-| **164** | 0xa4 |  |  |  |  |
-| **165** | 0xa5 |  |  |  |  |
-| **166** | 0xa6 |  |  |  |  |
-| **167** | 0xa7 |  |  |  |  |
-| **168** | 0xa8 |  |  |  |  |
-| **169** | 0xa9 |  |  |  |  |
-| **170** | 0xaa |  |  |  |  |
-| **171** | 0xab |  |  |  |  |
+| **160** | 0xa0 | á | LATIN SMALL LETTER A WITH ACUTE | U+00e1 | Některé fonty zde mají znak "Á" \(143\) |
+| **161** | 0xa1 | í | LATIN SMALL LETTER I WITH ACUTE | U+00ed | Některé fonty zde mají znak "Í" \(139\) |
+| **162** | 0xa2 | ó | LATIN SMALL LETTER O WITH ACUTE | U+00f3 | Některé fonty zde mají znak "Ó" \(149\) |
+| **163** | 0xa3 | ú | LATIN SMALL LETTER U WITH ACUTE | U+00fa | Některé fonty zde mají znak "Ú" \(151\) |
+| **164** | 0xa4 | ň | LATIN SMALL LETTER N WITH CARON | U+0148 | Některé fonty zde mají znak "Ň" \(165\) |
+| **165** | 0xa5 | Ň | LATIN CAPITAL LETTER N WITH CARON | U+0147 |  |
+| **166** | 0xa6 | Ů | LATIN CAPITAL LETTER U WITH RING ABOVE | U+016e | Některé fonty tento znak neobsahují |
+| **167** | 0xa7 | Ô | LATIN CAPITAL LETTER O WITH CIRCUMFLEX | U+00d4 | Žádný font tento znak neobsahuje |
+| **168** | 0xa8 | š | LATIN SMALL LETTER S WITH CARON | U+0161 | Některé fonty zde mají znak "Š" \(155\) |
+| **169** | 0xa9 | ř | LATIN SMALL LETTER R WITH CARON | U+0159 | Některé fonty zde mají znak "Ř" \(158\) |
+| **170** | 0xaa | ŕ | LATIN SMALL LETTER R WITH ACUTE | U+0155 | Žádný font tento znak neobsahuje |
+| **171** | 0xab | Ŕ | LATIN CAPITAL LETTER R WITH ACUTE | U+0154 | Žádný font tento znak neobsahuje |
 | **172** | 0xac |  |  |  |  |
 | **173** | 0xad |  |  |  |  |
 | **174** | 0xae |  |  |  |  |
