@@ -107,6 +107,7 @@ MIXER.C
 * Data
 
 * AddMonoSamples8
+
 * AddStereoSamples8
 * AddMonoADPCM4
 * AddStereoADPCM4
@@ -116,6 +117,127 @@ MIXER.C
 * AddStereoSamples12
 * AddMonoSamples16
 * AddStereoSamples16
+
+MLC.C
+
+POPISK.C
+
+* PopiskFAT
+* OldPictureNr
+* OldBuffer
+* PopiskName
+* PopiskOk
+* InitPopisk
+* FileName
+* File
+* ReadPopisk
+* PictureNr
+* Buffer
+* File
+
+REALMODE.C
+
+SCRSAVER.C
+
+* ScrSaverT
+* OFFSET
+* Pohyb
+* NrFrames
+
+* RLE32Decomp
+
+TIMER.C
+
+VIDEO.C
+
+* Rect
+* VPGHdrT
+* HuffLen
+* Quality
+* Rezerva1
+* Rezerva2
+* VPGHdrT
+* HuffLen
+* Quality
+* Rezerva1
+* Rezerva2
+* VPGHdrT
+* HuffLen
+* Quality
+* Rezerva1
+* Rezerva2
+* VPGHDrT
+* ImageInfoT
+* Sirka
+* Vyska
+* Comp
+* Cache
+* rez1
+* VPGHdrT
+* Quality
+* HuffLen
+* ImageInfoT
+* Sirka
+* Vyska
+* Comp
+* Cache
+* rez1
+* VPGHdrT
+* Quality
+* HuffLen
+* VesaInfo
+* ModeAttr
+* WinAattr
+* WinBattr
+* Gran
+* Size
+* Asegment
+* Bsegment
+* WinSetPtr
+* BytesPerLine
+* XPixels
+* YPixels
+* AnimInfoT
+* Frames
+* Res1
+* Res2
+* Res3
+* Res4
+* Used
+* CurrFrame
+* Loop
+* SeekPos
+* FirstFrame
+* Sound
+* Preload
+* PreloadPos
+* TimeMark
+* SampleMark
+* PalTable
+* FontInfoT
+* Length
+* Heigth
+* IsMono
+* Rezerva
+* Paleta
+* FatTable
+* Data
+* FontNr
+* Access
+* Used
+* MouseInfoT
+* FirstCursor
+* NrCursors
+* Tabulka
+* Screens
+* Palety
+* Odkazy
+* MouseAreaT
+* MaxFazi
+* Faze
+* Odkazy
+
+
 
 
 
