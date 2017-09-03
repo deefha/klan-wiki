@@ -1,11 +1,6 @@
 # Summary
 
 * [Úvod](README.md)
-* [Kódování češtiny](kodovani-cestiny.md)
-  * [Znaky 0-127](kodovani-cestiny/znaky-0-127.md)
-  * [Znaky 128-173](kodovani-cestiny/znaky-128-173.md)
-  * [Znaky 174-255](kodovani-cestiny/znaky-174-255.md)
-* [Použitý software](pouzity-software.md)
 * [Vydání](vydani.md)
   * [KLAN \#00](vydani/klan-00.md)
   * [KLAN \#01](vydani/klan-01.md)
@@ -84,5 +79,10 @@
   * [version.txt](soubory/version.txt.md)
   * [void\_scr.z3p](soubory/void_scr.z3p.md)
   * [wave.lib](soubory/wave.lib.md)
+* [Kódování češtiny](kodovani-cestiny.md)
+  * [Znaky 0-127](kodovani-cestiny/znaky-0-127.md)
+  * [Znaky 128-173](kodovani-cestiny/znaky-128-173.md)
+  * [Znaky 174-255](kodovani-cestiny/znaky-174-255.md)
+* [Použitý software](pouzity-software.md)
 * [Struktura](struktura.md)
 
