@@ -138,10 +138,10 @@ Znaky 128-175 odpovídají tabulce Kódu Kamenických, ale ne každý font obsah
 | **129** | 0x81 | ü | LATIN SMALL LETTER U WITH DIAERESIS | U+00fc | Některé fonty tento znak neobsahují |
 | **130** | 0x82 | é | LATIN SMALL LETTER E WITH ACUTE | U+00e9 | Některé fonty zde mají znak "É" \(\) |
 | **131** | 0x83 | ď | LATIN SMALL LETTER D WITH CARON | U+010f | Některé fonty tento znak neobsahují |
-| **132** | 0x84 |  |  |  |  |
-| **133** | 0x85 |  |  |  |  |
-| **134** | 0x86 |  |  |  |  |
-| **135** | 0x87 |  |  |  |  |
+| **132** | 0x84 | ä | LATIN SMALL LETTER A WITH DIAERESIS | U+00e4 | Některé fonty tento znak neobsahují |
+| **133** | 0x85 | Ď | LATIN CAPITAL LETTER D WITH CARON | U+010e |  |
+| **134** | 0x86 | Ť | LATIN CAPITAL LETTER T WITH CARON | U+0164 |  |
+| **135** | 0x87 | č | LATIN SMALL LETTER C WITH CARON | U+010d | Některé fonty zde mají znak "Č" \(128\) |
 | **136** | 0x88 |  |  |  |  |
 | **137** | 0x89 |  |  |  |  |
 | **138** | 0x8a |  |  |  |  |
