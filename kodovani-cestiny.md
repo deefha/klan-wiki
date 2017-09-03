@@ -183,13 +183,18 @@ Znaky 128-173 odpovídají tabulce Kódu Kamenických, ale ne každý font obsah
 
 ### Znaky 174-255
 
-Znaky 174-255 buďto nejsou vůbec použity, nebo neodpovídají tabulce Kódu Kamenických. Zde jsou uvedeny jen ty znaky, které obsahuje aspoň jeden font. Ne každý font obsahuje všechny znaky.
+Znaky 174-255 buďto neodpovídají tabulce Kódu Kamenických, nebo nejsou vůbec použity. Zde jsou uvedeny jen ty znaky, které obsahuje aspoň jeden font. Ne každý font obsahuje všechny znaky.
 
 | Dec | Hex | Znak | Unicode | UTF-8 | Poznámka |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **174** | 0xae |  |  |  |  |
-| **175** | 0xaf |  |  |  |  |
-| **203** | 0xcb |  |  |  |  |
+| **174** | 0xae | ▴ | BLACK UP-POINTING SMALL TRIANGLE | U+25b4 | Některé fonty tento znak neobsahují |
+| **175** | 0xaf | ▾ | BLACK DOWN-POINTING SMALL TRIANGLE | U+25be | Některé fonty tento znak neobsahují |
+| **203** | 0xcb | Ë | LATIN CAPITAL LETTER E WITH DIAERESIS | U+00cb | Některé fonty tento znak neobsahují |
+| **207** | 0xcf | Ï | LATIN CAPITAL LETTER I WITH DIAERESIS | U+00cf | Některé fonty tento znak neobsahují |
+| **225** | 0xe1 | ß | LATIN SMALL LETTER SHARP S | U+00df | Některé fonty tento znak neobsahují |
+| **235** | 0xeb | ë | LATIN SMALL LETTER E WITH DIAERESIS | U+00eb | Některé fonty tento znak neobsahují |
+| **239** | 0xef | ï | LATIN SMALL LETTER I WITH DIAERESIS | U+00ef | Některé fonty tento znak neobsahují |
+| **241** | 0xf1 | ± | PLUS-MINUS SIGN | U+00b1 | Některé fonty tento znak neobsahují |
 
 ## Odkazy
 
