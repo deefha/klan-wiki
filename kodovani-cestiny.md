@@ -128,9 +128,9 @@ Znaky 0-127 odpovídají standardní ASCII tabulce, ale ne každý font obsahuje
 | **125** | 0x7d | } | RIGHT CURLY BRACKET | U+007d | Některé fonty tento znak neobsahují |
 | **126** | 0x7e | ~ | TILDE | U+007e | Některé fonty tento znak neobsahují |
 
-### Znaky 128-175
+### Znaky 128-173
 
-Znaky 128-175 odpovídají tabulce Kódu Kamenických, ale ne každý font obsahuje všechny znaky. Některé znaky dokonce neobsahuje žádný font, v tabulce jsou ale pro úplnost přesto uvedeny všechny.
+Znaky 128-173 odpovídají tabulce Kódu Kamenických, ale ne každý font obsahuje všechny znaky. Některé znaky dokonce neobsahuje žádný font, v tabulce jsou ale pro úplnost přesto uvedeny všechny.
 
 | Dec | Hex | Znak | Unicode | UTF-8 | Poznámka |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -178,17 +178,17 @@ Znaky 128-175 odpovídají tabulce Kódu Kamenických, ale ne každý font obsah
 | **169** | 0xa9 | ř | LATIN SMALL LETTER R WITH CARON | U+0159 | Některé fonty zde mají znak "Ř" \(158\) |
 | **170** | 0xaa | ŕ | LATIN SMALL LETTER R WITH ACUTE | U+0155 | Žádný font tento znak neobsahuje |
 | **171** | 0xab | Ŕ | LATIN CAPITAL LETTER R WITH ACUTE | U+0154 | Žádný font tento znak neobsahuje |
-| **172** | 0xac |  |  |  |  |
-| **173** | 0xad |  |  |  |  |
-| **174** | 0xae |  |  |  |  |
-| **175** | 0xaf |  |  |  |  |
+| **172** | 0xac | ¼ | VULGAR FRACTION ONE QUARTER | U+00bc | Žádný font tento znak neobsahuje |
+| **173** | 0xad | § | SECTION SIGN | U+00a7 | Žádný font tento znak neobsahuje |
 
-### Znaky 176-255
+### Znaky 174-255
 
-Znaky 176-255 buďto nejsou vůbec použity, nebo neodpovídají tabulce Kódu Kamenických. Ne každý font obsahuje všechny znaky.
+Znaky 174-255 buďto nejsou vůbec použity, nebo neodpovídají tabulce Kódu Kamenických. Zde jsou uvedeny jen ty znaky, které obsahuje aspoň jeden font. Ne každý font obsahuje všechny znaky.
 
 | Dec | Hex | Znak | Unicode | UTF-8 | Poznámka |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **174** | 0xae |  |  |  |  |
+| **175** | 0xaf |  |  |  |  |
 | **203** | 0xcb |  |  |  |  |
 
 ## Odkazy
