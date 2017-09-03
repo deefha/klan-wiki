@@ -159,13 +159,13 @@ Znaky 128-175 odpovídají tabulce Kódu Kamenických, ale ne každý font obsah
 | **150** | 0x96 | ů | LATIN SMALL LETTER U WITH RING ABOVE | U+016f | Některé fonty zde mají znak "Ů" \(\) |
 | **151** | 0x97 | Ú | LATIN CAPITAL LETTER U WITH ACUTE | U+00da |  |
 | **152** | 0x98 | ý | LATIN SMALL LETTER Y WITH ACUTE | U+00fd | Některé fonty zde mají znak "Ý" \(\) |
-| **153** | 0x99 |  |  |  |  |
-| **154** | 0x9a |  |  |  |  |
-| **155** | 0x9b |  |  |  |  |
-| **156** | 0x9c |  |  |  |  |
-| **157** | 0x9d |  |  |  |  |
-| **158** | 0x9e |  |  |  |  |
-| **159** | 0x9f |  |  |  |  |
+| **153** | 0x99 | Ö | LATIN CAPITAL LETTER O WITH DIAERESIS | U+00d6 | Některé fonty tento znak neobsahují |
+| **154** | 0x9a | Ü | LATIN CAPITAL LETTER U WITH DIAERESIS | U+00dc | Některé fonty tento znak neobsahují |
+| **155** | 0x9b | Š | LATIN CAPITAL LETTER S WITH CARON | U+0160 |  |
+| **156** | 0x9c | Ľ | LATIN CAPITAL LETTER L WITH CARON | U+013d | Žádný font tento znak neobsahuje |
+| **157** | 0x9d | Ý | LATIN CAPITAL LETTER Y WITH ACUTE | U+00dd |  |
+| **158** | 0x9e | Ř | LATIN CAPITAL LETTER R WITH CARON | U+0158 |  |
+| **159** | 0x9f | ť | LATIN SMALL LETTER T WITH CARON | U+0165 | Některé fonty zde mají znak "Ť" \(134\) |
 | **160** | 0xa0 |  |  |  |  |
 | **161** | 0xa1 |  |  |  |  |
 | **162** | 0xa2 |  |  |  |  |
