@@ -25,7 +25,7 @@ Mód: binární
                               Font
                               ----
 
-?      0x?                    1. offset (viz @52), teoreticky @288
+?      0x?                    1. offset (viz @52), teoreticky vždy @288
 +0     +0x0    4     dword    Délka bloku dat (viz @+1800)
 +4     +0x4    4     dword    Výška řádku
 +8     +0x8    768   byte     Barevná paleta (256*3 RGB)
