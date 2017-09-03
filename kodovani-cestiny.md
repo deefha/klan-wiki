@@ -155,8 +155,8 @@ Znaky 128-175 odpovídají tabulce Kódu Kamenických, ale ne každý font obsah
 | **146** | 0x92 | Ž | LATIN CAPITAL LETTER Z WITH CARON | U+017d |  |
 | **147** | 0x93 | ô | LATIN SMALL LETTER O WITH CIRCUMFLEX | U+00f4 | Některé fonty tento znak neobsahují |
 | **148** | 0x94 | ö | LATIN SMALL LETTER O WITH DIAERESIS | U+00f6 | Některé fonty tento znak neobsahují |
-| **149** | 0x95 |  |  |  |  |
-| **150** | 0x96 |  |  |  |  |
+| **149** | 0x95 | Ó | LATIN CAPITAL LETTER O WITH ACUTE | U+00d3 |  |
+| **150** | 0x96 | ů | LATIN SMALL LETTER U WITH RING ABOVE | U+016f | Některé fonty zde mají znak "Ů" \(\) |
 | **151** | 0x97 |  |  |  |  |
 | **152** | 0x98 |  |  |  |  |
 | **153** | 0x99 |  |  |  |  |
