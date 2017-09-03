@@ -109,6 +109,7 @@ MIXER.C
 * AddMonoSamples8
 
 * AddStereoSamples8
+
 * AddMonoADPCM4
 * AddStereoADPCM4
 * AddMonoULaw8
@@ -236,6 +237,34 @@ VIDEO.C
 * MaxFazi
 * Faze
 * Odkazy
+
+* RLEDecomp
+
+UNHUFF.ASM
+
+* SolveWrapTab15\_
+* SolveWrapTab16\_
+* YUV2RGB24Buff\_
+* YUV2RGB8HalfWide\_
+* YUV2RGB8Wide\_
+* YUV2RGB16Buff\_
+* SolveWrapTab8\_
+* BuildHuffTreeImg\_
+* BuildHuffTree\_
+* YUV2RGB24Wide\_
+* SolveWrapTab24\_
+* YUV2RGB8Buff\_
+* YUV2RGB16Wide\_
+* HuffDecompress\_
+* UnWlU\_
+* UnWlV\_
+* YUV2RGB16\_
+* UnWlY\_
+* YUV2RGB8\_
+* YUV2RGB24\_
+* YUV2RGB16HalfWide\_
+* YUV2RGB24HalfWide\_
+* InitHuffDecomp\_
 
 
 
