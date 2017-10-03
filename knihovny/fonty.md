@@ -29,7 +29,7 @@
                               DATA (délka @14 - 256 - 32 bajtů)
                               ---------------------------------
 
-288    0x120                  Zde by měly začínat fonty, viz FONT 1-N
+288    0x120                  Zde začínají fonty, viz dále sekce FONT 1-N
 
                               FONT 1
                               ------
