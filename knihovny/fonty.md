@@ -9,7 +9,7 @@
 0      0x0     8     char     Signatura, vždy "SNOPsoft"
 8      0x8     4     byte     ? vždy "00 1A 00 01", podle FileHdrT z FILES.C je to "Verze"
 12     0xC     2     word     Typ knihovny, vždy "00 02"
-14     0xE     4     dword    Délka souboru
+14     0xE     4     dword    Délka souboru v bajtech
 18     0x12    2     word     Čas vytvoření souboru (MS DOS date)
                               Viz http://www.delorie.com/djgpp/doc/rbinter/it/66/16.html
 20     0x14    2     word     Datum vytvoření souboru (MS DOS time)
@@ -22,9 +22,9 @@
                               FAT (délka 256 bajtů)
                               -------------------
 
-32     0x20    2     word     Počet fontů
-34     0x22    18    byte     ?
-52     0x34    236   dword    Offsety fontů
+32     0x20    4     dword    Počet fontů
+36     0x24    16    byte     ? Možná offsety začínají už tady a je jich 63
+52     0x34    236   dword    Offsety fontů (59)
 
                               DATA (délka @14 - 256 - 32 bajtů)
                               ---------------------------------
