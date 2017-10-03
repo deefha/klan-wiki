@@ -45,7 +45,8 @@
 +8     +0x8    768   byte     Barevná paleta (256 * 3 RGB)
 +776   +0x308  1024  dword    Offsety a šířka jednotlivých znaků v bloku dat (pro 256 znaků)
                               Např. "8C 22 00 08" => "8C 22 00" (offset), "08" (šířka)
-                              Pokud je offset "00 00 00 00", tak font znak neobsahuje
+                              První offset je 0, jde o pozici v bloku dat (viz @+1800), ne v souboru
+                              Pokud je šířka 0, tak font znak neobsahuje
 +1800  +0x708  ?     byte     Blok dat (délka viz @+0), obsahuje indexy barevné palety
                               Indexy se čtou od offsetů jednotlivých znaků stylem:
                               X (šířka znaku, viz @+776) * Y (výška fontu, viz @+4)
