@@ -6,7 +6,7 @@
                               HEADER (délka 32 bajtů)
                               -----------------------
 
-0      0x0     8     char     Signatura, vždy "SNOPsoft"
+0      0x0     8     char     Signatura, vždy "SNOPSoft"
 8      0x8     4     byte     ? vždy "00 1A 00 01"
                               Podle FileHdrT z FILES.C je to "Verze"
 12     0xC     2     word     Typ knihovny, vždy "00 02"
