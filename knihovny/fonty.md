@@ -29,7 +29,7 @@
 32     0x20    4     dword    Počet fontů
 36     0x24    252   dword    Offsety fontů (63)
 
-                              DATA (délka @14 - 256 - 32 bajtů)
+                              DATA (délka @14 - 32 - 256 bajtů)
                               ---------------------------------
 
 288    0x120                  Zde začínají fonty, viz dále sekce FONT 1-N
