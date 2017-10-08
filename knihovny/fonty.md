@@ -27,9 +27,7 @@
                               -------------------
 
 32     0x20    4     dword    Počet fontů
-36     0x24    16    byte     ? Vždy "00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
-                              Možná offsety začínají už tady a je jich 63
-52     0x34    236   dword    Offsety fontů (59)
+36     0x24    252   dword    Offsety fontů (63)
 
                               DATA (délka @14 - 256 - 32 bajtů)
                               ---------------------------------
