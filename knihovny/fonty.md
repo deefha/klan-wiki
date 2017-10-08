@@ -1,6 +1,6 @@
 # Fonty
 
-* [Společná hlavička](/knihovny/spolecna-hlavicka.md)
+* [společná hlavička](/knihovny/spolecna-hlavicka.md)
 
 ```
 @Dec   @Hex    Délka Typ

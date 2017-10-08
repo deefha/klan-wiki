@@ -1,6 +1,7 @@
 # Knihovny
 
 * mají příponu .lib
+* prvních 32 bajtů vždy zabírá [společná hlavička](/knihovny/spolecna-hlavicka.md)
 * na 12. bajtu \(0xC\) jsou 2 bajty \(word\) obsahující ID knihovny
 
 | ID knihovny | Typ knihovny | Poznámka |

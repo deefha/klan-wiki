@@ -1,6 +1,6 @@
 # Společná hlavička
 
-Všechny knihovna začínají hlavičkou v délce 32 bajtů. Její struktura je pro všechny společná:
+Každá knihovna začíná hlavičkou v délce 32 bajtů. Její struktura je pro všechny knihovny společná:
 
 ```
 @Dec   @Hex    Délka Typ
