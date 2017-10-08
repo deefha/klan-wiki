@@ -1,0 +1,4 @@
+# Společná hlavička
+
+
+
