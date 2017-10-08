@@ -37,7 +37,7 @@
                               FONT 1
                               ------
 
-?      0x?                    1. offset (viz @52), teoreticky vždy @288
+?      0x?                    1. offset (viz @36), teoreticky vždy @288
 +0     +0x0    4     dword    Délka bloku dat (viz @+1800)
 +4     +0x4    4     dword    Výška fontu
 +8     +0x8    768   byte     Barevná paleta (256 * 3 RGB)
@@ -53,14 +53,14 @@
                               FONT 2
                               ------
 
-?      0x?                    2. offset (viz @52)
+?      0x?                    2. offset (viz @36)
 ...    ...     ...   ...      ...
 ...    ...     ...   ...      ...
 
                               FONT N
                               ------
 
-?      0x?                    N. offset (viz @52)
+?      0x?                    N. offset (viz @36)
 ...    ...     ...   ...      ...
 ...    ...     ...   ...      ...
 
