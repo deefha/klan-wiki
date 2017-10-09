@@ -1,6 +1,6 @@
 # Fonty
 
-* [společná hlavička](/knihovny/spolecna-hlavicka.md)
+* prvních 32 bajtů zabírá [společná hlavička](/knihovny/spolecna-hlavicka.md)
 
 ```
 @Dec   @Hex    Délka Typ
