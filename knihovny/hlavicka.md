@@ -26,5 +26,5 @@ Každá knihovna začíná hlavičkou v délce 32 bajtů. Její struktura je pro
                               Neodpovídá ani jedna varianta výpočtu CRC16 různých částí souboru
 ```
 
-
+Po hlavičce vždy následuje [FAT oblast](/knihovny/fat.md).
 
