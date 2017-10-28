@@ -20,7 +20,7 @@
   * [Generace 3](rozhrani/generace-3.md)
   * [Generace 4](rozhrani/generace-4.md)
 * [Knihovny](knihovny.md)
-  * [Hlavička](knihovny/spolecna-hlavicka.md)
+  * [Hlavička](knihovny/hlavicka.md)
   * [FAT](knihovny/fat.md)
   * [Fonty](knihovny/fonty.md)
   * [Hudba](knihovny/hudba.md)
