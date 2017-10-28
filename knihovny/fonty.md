@@ -1,6 +1,7 @@
 # Fonty
 
-* prvních 32 bajtů zabírá [společná hlavička](/knihovny/spolecna-hlavicka.md)
+* prvních 32 bajtů zabírá [hlavička](/knihovny/hlavicka.md)
+* dalších 256 bajtů zabírá [FAT oblast](/knihovny/fat.md)
 
 ```
 @Dec   @Hex    Délka Typ
