@@ -32,6 +32,7 @@
   * [Spořič](knihovny/sporic.md)
   * [Index](knihovny/index.md)
   * [arKLANoid](knihovny/arklanoid.md)
+  * [Videa](knihovny/videa.md)
 * [Soubory](soubory.md)
   * [data](soubory/data.md)
     * [24b.bm6](soubory/data/24b.bm6.md)
