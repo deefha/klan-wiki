@@ -1,6 +1,0 @@
-# wave.lib
-
-Mód: binární
-
-
-

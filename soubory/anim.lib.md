@@ -1,6 +1,0 @@
-# anim.lib
-
-Mód: binární
-
-
-

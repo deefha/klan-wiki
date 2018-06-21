@@ -1,4 +1,0 @@
-# FAT oblast
-
-
-
