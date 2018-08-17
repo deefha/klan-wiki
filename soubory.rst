@@ -6,4 +6,4 @@ Soubory
    :maxdepth: 3
    :caption: Contents:
 
-   soubory/*
+   soubory/**

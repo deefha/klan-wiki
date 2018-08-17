@@ -1,0 +1,4 @@
+cursors.lib
+===========
+
+Mód: binární
