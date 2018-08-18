@@ -1,0 +1,55 @@
+Znaky 128-173
+=============
+
+Znaky 128-173 odpovídají tabulce Kódu Kamenických, ale ne každý font obsahuje všechny znaky. Některé znaky dokonce neobsahuje žádný font, v tabulce jsou ale pro úplnost přesto uvedeny všechny.
+
+=======  ====  ========  ======================================  ======  ===========================================
+Dec      Hex   Znak      Unicode                                 UTF-8   Poznámka
+=======  ====  ========  ======================================  ======  ===========================================
+**128**  0x80  Č         LATIN CAPITAL LETTER C WITH CARON       U+010c
+**129**  0x81  ü         LATIN SMALL LETTER U WITH DIAERESIS     U+00fc  Některé fonty tento znak neobsahují
+**130**  0x82  é         LATIN SMALL LETTER E WITH ACUTE         U+00e9  Některé fonty zde mají znak "É" (144)
+**131**  0x83  ď         LATIN SMALL LETTER D WITH CARON         U+010f  Některé fonty tento znak neobsahují
+**132**  0x84  ä         LATIN SMALL LETTER A WITH DIAERESIS     U+00e4  Některé fonty tento znak neobsahují
+**133**  0x85  Ď         LATIN CAPITAL LETTER D WITH CARON       U+010e
+**134**  0x86  Ť         LATIN CAPITAL LETTER T WITH CARON       U+0164
+**135**  0x87  č         LATIN SMALL LETTER C WITH CARON         U+010d  Některé fonty zde mají znak "Č" (128)
+**136**  0x88  ě         LATIN SMALL LETTER E WITH CARON         U+011b  Některé fonty zde mají znak "Ě" (138)
+**137**  0x89  Ě         LATIN CAPITAL LETTER E WITH CARON       U+011a
+**138**  0x8a  Ĺ         LATIN CAPITAL LETTER L WITH ACUTE       U+0139  Žádný font tento znak neobsahuje
+**139**  0x8b  Í         LATIN CAPITAL LETTER I WITH ACUTE       U+00cd
+**140**  0x8c  ľ         LATIN SMALL LETTER L WITH CARON         U+013e  Žádný font tento znak neobsahuje
+**141**  0x8d  ĺ         LATIN SMALL LETTER L WITH ACUTE         U+013a  Žádný font tento znak neobsahuje
+**142**  0x8e  Ä         LATIN CAPITAL LETTER A WITH DIAERESIS   U+00c4  Některé fonty tento znak neobsahují
+**143**  0x8f  Á         LATIN CAPITAL LETTER A WITH ACUTE       U+00c1
+**144**  0x90  É         LATIN CAPITAL LETTER E WITH ACUTE       U+00c9
+**145**  0x91  ž         LATIN SMALL LETTER Z WITH CARON         U+017e  Některé fonty zde mají znak "Ž" (146)
+**146**  0x92  Ž         LATIN CAPITAL LETTER Z WITH CARON       U+017d
+**147**  0x93  ô         LATIN SMALL LETTER O WITH CIRCUMFLEX    U+00f4  Některé fonty tento znak neobsahují
+**148**  0x94  ö         LATIN SMALL LETTER O WITH DIAERESIS     U+00f6  Některé fonty tento znak neobsahují
+**149**  0x95  Ó         LATIN CAPITAL LETTER O WITH ACUTE       U+00d3
+**150**  0x96  ů         LATIN SMALL LETTER U WITH RING ABOVE    U+016f  Některé fonty zde mají znak "Ů" (166)
+**151**  0x97  Ú         LATIN CAPITAL LETTER U WITH ACUTE       U+00da
+**152**  0x98  ý         LATIN SMALL LETTER Y WITH ACUTE         U+00fd  Některé fonty zde mají znak "Ý" (157)
+**153**  0x99  Ö         LATIN CAPITAL LETTER O WITH DIAERESIS   U+00d6  Některé fonty tento znak neobsahují
+**154**  0x9a  Ü         LATIN CAPITAL LETTER U WITH DIAERESIS   U+00dc  Některé fonty tento znak neobsahují
+**155**  0x9b  Š         LATIN CAPITAL LETTER S WITH CARON       U+0160
+**156**  0x9c  Ľ         LATIN CAPITAL LETTER L WITH CARON       U+013d  Žádný font tento znak neobsahuje
+**157**  0x9d  Ý         LATIN CAPITAL LETTER Y WITH ACUTE       U+00dd
+**158**  0x9e  Ř         LATIN CAPITAL LETTER R WITH CARON       U+0158
+**159**  0x9f  ť         LATIN SMALL LETTER T WITH CARON         U+0165  Některé fonty zde mají znak "Ť" (134)
+**160**  0xa0  á         LATIN SMALL LETTER A WITH ACUTE         U+00e1  Některé fonty zde mají znak "Á" (143)
+**161**  0xa1  í         LATIN SMALL LETTER I WITH ACUTE         U+00ed  Některé fonty zde mají znak "Í" (139)
+**162**  0xa2  ó         LATIN SMALL LETTER O WITH ACUTE         U+00f3  Některé fonty zde mají znak "Ó" (149)
+**163**  0xa3  ú         LATIN SMALL LETTER U WITH ACUTE         U+00fa  Některé fonty zde mají znak "Ú" (151)
+**164**  0xa4  ň         LATIN SMALL LETTER N WITH CARON         U+0148  Některé fonty zde mají znak "Ň" (165)
+**165**  0xa5  Ň         LATIN CAPITAL LETTER N WITH CARON       U+0147
+**166**  0xa6  Ů         LATIN CAPITAL LETTER U WITH RING ABOVE  U+016e  Některé fonty tento znak neobsahují
+**167**  0xa7  Ô         LATIN CAPITAL LETTER O WITH CIRCUMFLEX  U+00d4  Žádný font tento znak neobsahuje
+**168**  0xa8  š         LATIN SMALL LETTER S WITH CARON         U+0161  Některé fonty zde mají znak "Š" (155)
+**169**  0xa9  ř         LATIN SMALL LETTER R WITH CARON         U+0159  Některé fonty zde mají znak "Ř" (158)
+**170**  0xaa  ŕ         LATIN SMALL LETTER R WITH ACUTE         U+0155  Žádný font tento znak neobsahuje
+**171**  0xab  Ŕ         LATIN CAPITAL LETTER R WITH ACUTE       U+0154  Žádný font tento znak neobsahuje
+**172**  0xac  ¼         VULGAR FRACTION ONE QUARTER             U+00bc  Žádný font tento znak neobsahuje
+**173**  0xad  §         SECTION SIGN                            U+00a7  Žádný font tento znak neobsahuje
+=======  ====  ========  ======================================  ======  ===========================================
