@@ -11,3 +11,4 @@ KLAN 2016 - wiki
    rozhrani
    knihovny
    soubory
+   kodovani-cestiny
